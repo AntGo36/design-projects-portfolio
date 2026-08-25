@@ -7,7 +7,6 @@ My name is Antonio Goodson, an aspiring Mechanical Engineer attending UNC Charlo
 While I'm not familiar with this term, I believe it means to be able to analyze a decision made with an engineering mind such as being able to know when a decision in the design or build process is most efficient. I cannot currently say that I know how to defend a engineering decision because I do not have a complete understanding on what it is, even if I did, I believe I would struggle as it is a concept new to me.
 <br>
 <svg 
-  <p align="center">
-    width="100%" height="40">
+    width="100%" height="20">
   <rect width="100%" height="100%" fill="#004d26" />
 </svg>
