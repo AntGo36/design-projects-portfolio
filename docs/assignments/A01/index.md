@@ -1,4 +1,4 @@
-# A1 – [Creating a Portfolio]
+# A1 – Creating a Portfolio
 
 ## Objective: To create and analyze what makes an effective portfolio .
 
@@ -21,6 +21,8 @@ Product Analysis - The primary function of this product is to cut wire as is pat
 <br>
 ## Decide
 <br>The homepage is the most important part of any site as it should encapsulate the site has a whole and provides necessary information such as objectives and what makes the site credible. For portfolio the most important things are it's creator, projects, works, and experience. It should be organized in a way that leaves no room for confusion and streamline format. Aspects such as the "about me" is an important part as a display credentials as it shows what you as a person are about. The court Takeaway that should be had is dependent on the audience that is intended to visit such as employers or peers.
+<br> Within my about me section, I decided to add a colored footer as it was barren without something other than text to look at.
+<br> I want to be able to adhere to the standard of being able to communicate effectively, so one who is not versed in the proceedings is able to be informed by my content.
 
 ## Communicate
-
+I did not settle the adequate amount of time for myself to complete this assignment effectively and I believe it is evident within the format and quality.
