@@ -17,9 +17,9 @@ Product Analysis - The primary function of this product is to cut wire as is pat
 <img width="480" height="508" alt="image" src="https://github.com/user-attachments/assets/dd1a082e-b3e1-43fe-89f5-9ce7f5e5dc1b" />
 <br>A design of US patent: US3777398A (E Routh)<br>
 <br> Some changes to this product could be seen in its spring design such as using a leaf spring which would be more reliable as it's simpler so fewer failure points and easier to make. Another alternative solution can be seen in cutting, one could just use a saw.
-<br> A design that could be seen as a engineer decision will be to use the spring as it is well within its elastic limit so there's little risk of deformation while being able to "reset" the tool.
+<br> A design that could be seen as a engineer decision will be to use the spring as it is well within its elastic limit so there's little risk of deformation while being able to "reset" the tool.<br><br>
 ## Decide
-
+<br>The homepage is the most important part of any site as it should encapsulate the site has a whole and provides necessary information such as objectives and what makes the site credible. For portfolio the most important things are it's creator, projects, works, and experience. It should be organized in a way that leaves no room for confusion and streamline format. Aspects such as the "about me" is an important part as a display credentials as it shows what you as a person are about. The court Takeaway that should be had is dependent on the audience that is intended to visit such as employers or peers.
 
 ## Communicate
 
