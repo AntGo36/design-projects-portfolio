@@ -1,2 +1,2 @@
 #About Me
-This is how to edit
+My name is Antonio Goodson, and aspiring Mechanical Engineer...
