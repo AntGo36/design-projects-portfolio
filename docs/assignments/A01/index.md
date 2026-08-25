@@ -9,9 +9,15 @@ Portfolio Analysis - In the examples I located, there is a linear line of naviga
 Product Analysis - The primary function of this product is to cut wire as is patent name implies. It's a mechanical tool that uses leverage to shear material,  often used for metal wire but is also often used for plastic. This model also uses a spring to reset the tool which can be seen as a display of Hookes law.
 
 <img width="478" height="479" alt="IMG_3915" src="https://github.com/user-attachments/assets/0e50fe8f-ad8e-4794-b6de-2ac3cc57b2e8" />
-<br>The product uses curved handles to provide better advantage 
-<br>A design of US patent: US3777398A. 
-
+<br>The product uses curved handles to provide better advantage.
+<br>
+<img width="478" height="479" alt="IMG_3920" src="https://github.com/user-attachments/assets/ee0ba838-6680-496a-98fc-c826b28d2d50" />
+<br> Sloped blades provide clean and close cut by minimizing contact.
+<br>
+<img width="480" height="508" alt="image" src="https://github.com/user-attachments/assets/dd1a082e-b3e1-43fe-89f5-9ce7f5e5dc1b" />
+<br>A design of US patent: US3777398A (E Routh)<br>
+<br> Some changes to this product could be seen in its spring design such as using a leaf spring which would be more reliable as it's simpler so fewer failure points and easier to make. Another alternative solution can be seen in cutting, one could just use a saw.
+<br> A design that could be seen as a engineer decision will be to use the spring as it is well within its elastic limit so there's little risk of deformation while being able to "reset" the tool.
 ## Decide
 
 
