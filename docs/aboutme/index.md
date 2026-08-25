@@ -1,3 +1,7 @@
+<svg width="100%" height="50">
+  <rect width="100%" height="100%" fill="#4169E1" />
+</svg>
+
 ## About Me
 My name is Antonio Goodson, an aspiring Mechanical Engineer attending UNC Charlotte. I was routed to this path through  my love of creating things and analyzing the building and process of physical objects. I'm someone who provides emphasis on quality while engaging in efficient practice while maintaining a creative process which engages modern innovation.
 <br> Im working towards my bachelors degree and currently plan to get into the field of materials engineering.
