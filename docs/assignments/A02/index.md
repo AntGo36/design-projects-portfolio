@@ -8,7 +8,7 @@ The objective of this assignment is to create a truss with given points, forces,
 <br>
 The figure given consists of 4 points, A, B, C, & D. "A" is defined as a pin support, and "B" as a roller. There are two forces P which act on points C and D, up and down respectively. The points are separated horizontally by a distance "a", and points C & D are separated from A & B by a distance "b".
 <br>
-The instructions require all sides to have the same cross sectional area, this applies to the pins as well. The force P is defined as 20KN (chosen from force between 20-30KN) and distances are defined as 0.4m for "a" & 0.3m for "b". The material for the truss that was instructed to use was A500 Structural steel, however, Fusion360 (the software I'm using) doesn't have it, so I used A36 Steel as a replacement.
+The instructions require all sides to have the same cross sectional area, this applies to the pins as well. The force P is defined as 20 KN (chosen from force between 20-30 KN) and distances are defined as 0.4m for "a" & 0.3m for "b". The material for the truss that was instructed to use was A500 Structural steel, however, Fusion360 (the software I'm using) doesn't have it, so I used A36 Steel as a replacement.
 <br>
 
 
@@ -19,11 +19,19 @@ The first step was to create a sketch of the truss. I chose to use a trapezoid a
 <br>
 <img width="5570" height="1188" alt="HW2Img1" src="https://github.com/user-attachments/assets/b28e6fa7-36ab-485c-852d-5fb526afa3f2" />
 <br>
-After creating the sketch I used the joint method on all members. After doing this I could instantly one of the redundancies in my first design in point F. This is because I could see that the y component would be a zero force member, I then found that points E & F where not necessary for the given requirements.
+After creating the sketch I used the joint method on all members. After doing this I could instantly one of the redundancies in my first design in point F. This is because I could see that the y component would be a zero force member, I then found that points E & F where not necessary for the given requirements. After making a free body diagram of all the joints I was able to find symmetry within the internal forces.
 <br>
 <img width="4920" height="1051" alt="HW2Img2" src="https://github.com/user-attachments/assets/3a1b730e-872a-4bce-b551-ad05905f9808" />
 <br> 
+After creating the free body diagrams I solve for all internal forces without using numerical values. This is where I noticed the webbing wasn't needed. For this section I used ratios to solve for the diagonal forces such as the value "d" standing for the hypotenuse  between the points "a" and "b". I was able to find whether my arrows are correct and adjusted appropriately. I was also able to find what best thing to solve for first was, I found it was F_AD.
+<br>
+<img width="4920" height="1264" alt="HW2Img3" src="https://github.com/user-attachments/assets/4c57d5eb-3224-42d5-9e05-a68117baf9b0" />
+<br>
+I then solved for all the forces numerically. I found the highest internal forces where 33.33 KN within BC and AD. I found the other forces between members to be 26.67 KN and the y component for both A & B to be 20 KN.
+<br>
+<img width="4920" height="1111" alt="HW2Img4" src="https://github.com/user-attachments/assets/e3c75265-5484-4d70-92ec-5c056d9c5088" />
 
+<br>
 
 ## Communicate
 
