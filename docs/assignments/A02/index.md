@@ -44,14 +44,19 @@ This is where I redrew the frame, this shouldn't pose any big changes. I found t
 <img width="2019" height="431" alt="HW_Img6" src="https://github.com/user-attachments/assets/59f73df9-8d09-47ab-a8b0-736e9affeefc" />
 <br>
 ### Find Cross-Sectional Area of Pins
-I now had to find the cross-sectional area for the pins. The pins where to be made of hardened tool steel with a yield shear strength of 170 ksi and density of 0.278 Lb/in^3. The first step I took was setting up the equations. Since 33.33 KN is the largest force on the pins I use that. The given was in imperial units so I had to convert. 
+I now had to find the cross-sectional area for the pins. The pins where to be made of hardened tool steel with a yield shear strength of 170 ksi and density of 0.278 Lb/in^3. The first step I took was setting up the equations. Since 33.33 KN is the largest force on the pins I use that. The given was in imperial units so I had to convert. After converting and using the safety factor on the given yield shear strength I found the area to be 0.1763 in^2. After finding the area I needed to find the weight of the combined pins, but first I needed to know how long they needed to be. To find the length I found the square root of the area of the truss, this is if the truss was made of square beams. after finding the length I just needed to multiply by the pin area and by the density to get the weight of 1 pin, 0.04169 Lb, the weight of all four was 0.1667 Lb (0.7417 N).
 <br>
 <img width="1997" height="939" alt="HW_Img7" src="https://github.com/user-attachments/assets/59d6d0c6-5c03-40cc-8429-cf792b703ae1" />
 <br>
+### CAD 3D Model
+
+<br>
+<img width="1709" height="685" alt="Truss_Sketch" src="https://github.com/user-attachments/assets/c22dfcba-1b7f-4224-b846-cd4fff43a94d" />
 <br>
 <img width="1402" height="299" alt="HW_Img8" src="https://github.com/user-attachments/assets/042365d2-bca6-4d79-bc19-23100025eb43" />
 
 
 
 ## Communicate
+In the end this assignment took the span of 5 days and in total ~10 hours. This was due to me 
 
