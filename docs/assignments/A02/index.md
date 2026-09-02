@@ -34,6 +34,7 @@ I then solved for all the forces numerically. I found the highest internal force
 <br>
 <img width="4920" height="1111" alt="HW2Img4" src="https://github.com/user-attachments/assets/e3c75265-5484-4d70-92ec-5c056d9c5088" />
 <br>
+
 ### Find Cross-Sectional Area of Truss
 Now that I have the internal forces I can determine the cross-sectional area. The area could be found by dividing the largest internal force by the yield strength of the truss material. The yield strength was found online from <a href="https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/">beamdimensions.com</a> for A36 Steel which was 250 MPa. I applied the given safety factor of "3.5" given to the stress and got a resulting area of 466.7 mm^2.
 <br>
@@ -43,17 +44,32 @@ This is where I redrew the frame, this shouldn't pose any big changes. I found t
 <br>
 <img width="2019" height="431" alt="HW_Img6" src="https://github.com/user-attachments/assets/59f73df9-8d09-47ab-a8b0-736e9affeefc" />
 <br>
+
 ### Find Cross-Sectional Area of Pins
 I now had to find the cross-sectional area for the pins. The pins where to be made of hardened tool steel with a yield shear strength of 170 ksi and density of 0.278 Lb/in^3. The first step I took was setting up the equations. Since 33.33 KN is the largest force on the pins I use that. The given was in imperial units so I had to convert. After converting and using the safety factor on the given yield shear strength I found the area to be 0.1763 in^2. After finding the area I needed to find the weight of the combined pins, but first I needed to know how long they needed to be. To find the length I found the square root of the area of the truss, this is if the truss was made of square beams. after finding the length I just needed to multiply by the pin area and by the density to get the weight of 1 pin, 0.04169 Lb, the weight of all four was 0.1667 Lb (0.7417 N).
 <br>
 <img width="1997" height="939" alt="HW_Img7" src="https://github.com/user-attachments/assets/59d6d0c6-5c03-40cc-8429-cf792b703ae1" />
 <br>
-### CAD 3D Model
 
+### CAD 3D Model
+When creating the CAD model I start with sketching the points and connect them with lines. After getting the general shape I define the lengths, for the top I make it 1.2 m, the bottom 400 mm, the diagonal 500 mm, and the height 300 mm. One thing I had to avoid was over defining the structure as it will cause errors.
 <br>
 <img width="1709" height="685" alt="Truss_Sketch" src="https://github.com/user-attachments/assets/c22dfcba-1b7f-4224-b846-cd4fff43a94d" />
 <br>
+My next step was creating the thickness. I went through a few iterations as how to thicken but I decided to surface extrude the square root of the truss area and apply a symmetrical thicken which was half the extrusion. Doing this ensured that the pin holes where in the correct distance apart.
+<br>
+<img width="1034" height="625" alt="Truss_Extrustion" src="https://github.com/user-attachments/assets/7cf86afc-7969-4778-a1b8-97dee896ddb9" />
+<br>
+After creating the thickness I created the holes. I realized that I didn't previously find the diameter but after a simple equation I found it to be 12.034 mm. Now that I knew the diameter I just needed to create a new sketch and overlay circles on the corners of the truss sketch. I then applied a extrusion subtract to make the holes.
+<br>
 <img width="1402" height="299" alt="HW_Img8" src="https://github.com/user-attachments/assets/042365d2-bca6-4d79-bc19-23100025eb43" />
+<img width="753" height="504" alt="Truss_Hole" src="https://github.com/user-attachments/assets/c6751f89-36bc-4038-9a3a-478a5f79fb95" />
+<br>
+
+<br>
+<img width="513" height="255" alt="Truss_Properties" src="https://github.com/user-attachments/assets/4bbdb075-c13b-47e6-9d2e-b4feec0887d3" />
+<br>
+
 
 
 
