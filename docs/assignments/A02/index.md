@@ -63,13 +63,13 @@ My next step was creating the thickness. I went through a few iterations as how 
 After creating the thickness I created the holes. I realized that I didn't previously find the diameter but after a simple equation I found it to be 12.034 mm. Now that I knew the diameter I just needed to create a new sketch and overlay circles on the corners of the truss sketch. I then applied a extrusion subtract to make the holes. I then applied the A36 Steel material to the truss to find the properties that was very close to the weight that I found before.
 <br>
 <img width="1402" height="299" alt="HW_Img8" src="https://github.com/user-attachments/assets/042365d2-bca6-4d79-bc19-23100025eb43" />
-<img width="450" height="250" alt="Truss_Hole" src="https://github.com/user-attachments/assets/48289367-d1f6-4058-bb07-a63ef1189b98" />
-<img width="450" height="250" alt="Truss_Properties" src="https://github.com/user-attachments/assets/4bbdb075-c13b-47e6-9d2e-b4feec0887d3" />
+<img width="400" height="200" alt="Truss_Hole" src="https://github.com/user-attachments/assets/48289367-d1f6-4058-bb07-a63ef1189b98" />
+<img width="400" height="200" alt="Truss_Properties" src="https://github.com/user-attachments/assets/4bbdb075-c13b-47e6-9d2e-b4feec0887d3" />
 <br>
 Because I couldn't find something equivalent to the hardened tool steel presented I decided to create a duplicate of a existing steel material and edit the density to the given. Creating the pin was simple as I just created a sketch of a circle that matched the diameter and extruded it to the thickness of the truss. The weight closely matched the weight previously found. 
 <br>
-<img width="846" height="299" alt="Hardened_Tool_steel" src="https://github.com/user-attachments/assets/1628ea27-a63d-4ff9-9a15-c62f6ec67b23" />
-<img width="864" height="566" alt="Pin_Properties" src="https://github.com/user-attachments/assets/fd058534-034b-4e43-a931-ff77b536cdfb" />
+<img width="500" height="225" alt="Hardened_Tool_steel" src="https://github.com/user-attachments/assets/1628ea27-a63d-4ff9-9a15-c62f6ec67b23" />
+<img width="500" height="300" alt="Pin_Properties" src="https://github.com/user-attachments/assets/fd058534-034b-4e43-a931-ff77b536cdfb" />
 <br>
 
 
