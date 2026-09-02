@@ -34,14 +34,24 @@ I then solved for all the forces numerically. I found the highest internal force
 <br>
 <img width="4920" height="1111" alt="HW2Img4" src="https://github.com/user-attachments/assets/e3c75265-5484-4d70-92ec-5c056d9c5088" />
 <br>
-### Find Cross-Sectional Area
+### Find Cross-Sectional Area of Truss
 Now that I have the internal forces I can determine the cross-sectional area. The area could be found by dividing the largest internal force by the yield strength of the truss material. The yield strength was found online from <a href="https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/">beamdimensions.com</a> for A36 Steel which was 250 MPa. I applied the given safety factor of "3.5" given to the stress and got a resulting area of 466.7 mm^2.
 <br>
 <img width="2019" height="462" alt="HW_Img5" src="https://github.com/user-attachments/assets/77e1fe05-225d-4527-8e6d-580430f42951" />
 <br>
-This is where I redrew the frame, this shouldn't pose any big changes. I found the weight of the truss frame by using the density provided by beamdimensions.com as 7850 Kg/m^3. I found the total length of material the truss uses by adding the lengths of each beam and multiplyed by the area to find the volume. After finding the volume I multiply with the Density to find the mass in kilograms and convert to newtons with a end weight of 93.4 newtons this was before subtracting the holes needed for the pins.
+This is where I redrew the frame, this shouldn't pose any big changes. I found the weight of the truss frame by using the density provided by beamdimensions.com as 7850 Kg/m^3. I found the total length of material the truss uses by adding the lengths of each beam and multiplyed by the area to find the volume. After finding the volume I multiply with the Density to find the mass in kilograms and convert to newtons with a end weight of 93.4 newtons, this was before subtracting the holes needed for the pins.
 <br>
 <img width="2019" height="431" alt="HW_Img6" src="https://github.com/user-attachments/assets/59f73df9-8d09-47ab-a8b0-736e9affeefc" />
+<br>
+### Find Cross-Sectional Area of Pins
+I now had to find the cross-sectional area for the pins. The pins where to be made of hardened tool steel with a yield shear strength of 170 ksi and density of 0.278 Lb/in^3. The first step I took was setting up the equations. Since 33.33 KN is the largest force on the pins I use that. The given was in imperial units so I had to convert. 
+<br>
+<img width="1997" height="939" alt="HW_Img7" src="https://github.com/user-attachments/assets/59d6d0c6-5c03-40cc-8429-cf792b703ae1" />
+<br>
+<br>
+<img width="1402" height="299" alt="HW_Img8" src="https://github.com/user-attachments/assets/042365d2-bca6-4d79-bc19-23100025eb43" />
+
+
 
 ## Communicate
 
