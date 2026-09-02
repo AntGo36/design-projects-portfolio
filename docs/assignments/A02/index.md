@@ -77,5 +77,19 @@ Because I couldn't find something equivalent to the hardened tool steel presente
 ## Communicate
 The CAD software I was most familiar with was Solidworks however I didn't have it at hand so I used Fusion 360 as it was free.
 <br>
-In the end this assignment took the span of 5 days and in total ~10 hours. I believe that I could have taken more time to complete because I feel I ran too close to the assignment date. I also feel that I should have spent more time on the CAD model. For planning I spent around a hour and a half in a small sketchbook, when I did this the original plan matched the final more closely when I officially started.
+In the end this assignment took the span of 5 days and in total ~10 hours. I believe that I could have taken more time to complete because I feel I ran too close to the assignment date. I also feel that I should have spent more time on the CAD model. For planning I spent around a hour and a half in a small sketchbook, when I did this the original plan matched the final more closely when I officially started. One big problem I faced was that I didn't have much practice with anything other than the statics portion and even less with the pins because it was something I hadn't touched until now.
 
+## 2157
+### 1)
+Within my truss system all members are made from A36 Steel excluding the pins. A36 Steel was chosen as it was closest to the A500 Steel the assignment asked. A36 is a steel with high ductility meaning it can flex before fracture. Due to it flexing before fracture I believe that under tension the truss is more likely to yield before fracture. Within the standard Stress strain curve the yielding occurs in the plastic part of the curve, this is where permanent deformation takes place. The material as such with high ductility is more likely to yield due to its flexibility.
+<br>
+The most likely failure of members in compression within the system would be buckling, I believe this because the members are well within the yield limit and it’s relatively skinny in comparison to its length. Buckling occurs when a structure bends under high tension, this can be due to a lack of structural stiffness.
+<br>
+Though the directions instructed to assume that buckling wouldn’t occur, the most likely failure would be such. A remedy for this would be to increase the cross sectional area of the truss or to provide more support. My original design for the truss would protect from that.
+
+### 2)
+Within the pins
+### Sources
+<a href="https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/">beamdimensions.com</a>
+<a href="https://efficientengineer.com/buckling//">efficientengineer.com</a>
+<a href="https://https://www.metalsupermarkets.com/grade-guide-a36-steel/">metalsupermarkets.com</a>
