@@ -71,7 +71,7 @@ Because I couldn't find something equivalent to the hardened tool steel presente
 <img width="300" height="125" alt="Hardened_Tool_steel" src="https://github.com/user-attachments/assets/1628ea27-a63d-4ff9-9a15-c62f6ec67b23" />
 <img width="300" height="200" alt="Pin_Properties" src="https://github.com/user-attachments/assets/fd058534-034b-4e43-a931-ff77b536cdfb" />
 <br>
-<a href="docs/HW_2 Assembly.step" download>Download STEP File</a>
+<a href="HW_2 Assembly.step" download>Download STEP File</a>
 
 ## Communicate
 The CAD software I was most familiar with was Solidworks however I didn't have it at hand so I used Fusion 360 as it was free.
