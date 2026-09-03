@@ -70,7 +70,7 @@
     <img width="300" height="200" alt="Pin_Properties" src="https://github.com/user-attachments/assets/fd058534-034b-4e43-a931-ff77b536cdfb" />
       <br>
 ### CAD Download
-    <a href="Assembly.zip" download>Download STEP File</a>
+  <a href="Assembly.zip" download>Download STEP File</a>
 
 ## Communicate
   The CAD software I was most familiar with was Solidworks however I didn't have it at hand so I used Fusion 360 as it was free.
@@ -88,7 +88,7 @@
 ### 2)
   The pins were instructed to be made of hardened tool steel. This type of steel is known for its hardness and strength but low ductility,  meaning that it is brittle. Because it’s brittle it is very likely to yield and fracture. The part is more likely to fail due to high forces or a small area as defined by its equation τ = V/A. A remedy to the issue of shearing would be to increase the area as with a larger area τ decreases.
 ### Sources
-          <a href="https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/">beamdimensions.com</a>
+  <a href="https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/">beamdimensions.com</a>
       <br><a href="https://efficientengineer.com/buckling//">efficientengineer.com</a>
       <br><a href="https://https://www.metalsupermarkets.com/grade-guide-a36-steel/">metalsupermarkets.com</a>
       <br><a href="https://prototek.com/article/what-is-shear-stress-and-why-is-it-important//">prototek.com</a>
