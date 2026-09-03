@@ -88,8 +88,10 @@ The most likely failure of members in compression within the system would be buc
 Though the directions instructed to assume that buckling wouldn’t occur, the most likely failure would be such. A remedy for this would be to increase the cross sectional area of the truss or to provide more support. My original design for the truss would protect from that.
 
 ### 2)
-Within the pins
+The pins were instructed to be made of hardened tool steel. This type of steel is known for its hardness and strength but low ductility,  meaning that it is brittle. Because it’s brittle it is very likely to yield and fracture. The part is more likely to fail due to high forces or a small area as defined by its equation τ = V/A. A remedy to the issue of shearing would be to increase the area as with a larger area τ decreases.
 ### Sources
 <a href="https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/">beamdimensions.com</a>
 <a href="https://efficientengineer.com/buckling//">efficientengineer.com</a>
 <a href="https://https://www.metalsupermarkets.com/grade-guide-a36-steel/">metalsupermarkets.com</a>
+<a href="https://prototek.com/article/what-is-shear-stress-and-why-is-it-important//">prototek.com</a>
+<a href="https://https://www.specialtysteel.com/blog/alloy-steel/hardness-vs-ductility-balancing-tradeoffs-in-steel-processing//">specialtysteel.com</a>
