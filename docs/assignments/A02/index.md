@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-  The objective of this assignment is to create a truss with given points, forces, and more physical properties.
+  The objective of this assignment is to create a truss with given points, forces, and more physical properties to find things such as cross-sectional area, weight, and to create a CAD model from our findings.
 
 ## Analyze
   <img width="320" height="218" alt="Figure1" src="https://github.com/user-attachments/assets/e6ce96a8-fe05-4209-af17-9f2c4065407a" />
