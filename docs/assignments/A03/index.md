@@ -50,12 +50,18 @@ After downloading Solidworks I selected my final aluminum choice of 1060 Alloy, 
 <h4>Pt 3</h4>
   Overall the solidworks simulation was very close to what was expected. With a given deflection of 0.009 in and simulated 0.00923 in there is very little difference with it being  2.5% over. This percent difference makes little difference at this scale and the reason for it being there could be just discrepancies within different software.
       <br>
-## Reflection
 
+## Reflection
+  My overall experience with this assignment could be seen as tedious as when I first started with Fusion 360. There is a problem of the parameters not wanting to work together as some parameters didn't exist with infusion 360 such as certain areas such as in^2. There is also the fact that I had to download solid works on my laptop. Thoughts barely pass the performance level. Because of this, I had to lost around four hours I had allotted for this assignment. The downloads on the laptop took around two hours and setting up took another. This was the first time I used the simulation for solid works, and though it confused me at first, you feel that I can improve my understanding. Overall, the assignment took me three hours so a total of seven hours.
+
+## 2157
+  When beginning to  adjust the parameters they can see from the equation how the length can be affected. If you increase the area it would be seen that the length will also increase, if you increase the force the length decreases. I believe this is because trying to increase force without changing the length would affect the stiffness. With a longer part, you would need a larger area to also increase the stiffness.
+<br>
+<img width="5938" height="1720" alt="IMG_4089" src="https://github.com/user-attachments/assets/c397e5f8-35f6-442f-b141-09fca4c366bd" />
+<br>
 
 
 ## Download
  <a href="2157_A3_SLDPT.zip.001" download>Download zip File A</a>
  <a href="2157_A3_SLDPT.zip.002" download>Download zip File B</a>
-## Communicate
 
