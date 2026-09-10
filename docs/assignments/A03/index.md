@@ -22,14 +22,19 @@ After setting my parameters, I went to model the bar first, I created a sketch i
     <img width="700" height="500" alt="Screenshot 2026-09-08 183732" src="https://github.com/user-attachments/assets/8d53510c-7546-4e9e-be72-df43303ebd09" />
       <br>
       <br>
-This is where I ran into my only major issue, the CAD software that I was using, Fusion 360 had the simulation function behind a paywall. I managed to avoid using Windows and to get by with my MacBook, however, this was my first hurdle which required Windows software. My windows laptop is a bit under the required technology guidelines for UNC Charlotte however after downloading solid Works, I managed to make do.
+This is where I ran into my only major issue, the CAD software that I was using, Fusion 360 had the simulation function behind a paywall. I managed to avoid using Windows and to get by with my MacBook, however, this was my first hurdle which required Windows software. My windows laptop is a bit under the required technology guidelines for UNC Charlotte however after downloading Solidworks, I managed to make do.
       <br>
-    <img width="171" height="281" alt="Screenshot 2026-09-09 at 10 46 41 AM" src="https://github.com/user-attachments/assets/5c380371-fcca-4b07-b50e-9fc63328abbc" />
+    <img width="280" height="300" alt="Screenshot 2026-09-09 at 10 46 41 AM" src="https://github.com/user-attachments/assets/5c380371-fcca-4b07-b50e-9fc63328abbc" />
       <br>
       <br>
-After downloading Solid works I  selected my final aluminum choice and updated the modulus of  elasticity and put in my parameters and modeled. After creating the bar I was able to start a simulation. I first applied a fixed support and applied the force on the correct face.
+After downloading Solidworks I selected my final aluminum choice of 1060 Alloy, updated the modulus of elasticity and put in my parameters and modeled.
       <br>
-    <img width="848" height="731" alt="Screenshot 2026-09-08 203946" src="https://github.com/user-attachments/assets/eaff4ee5-5dfd-4a6b-964d-fc67be85e3fe" />
+    <img width="942" height="667" alt="Screenshot 2026-09-08 195342" src="https://github.com/user-attachments/assets/e1d16b58-398f-4716-8c46-e278c0156c8b" />
+      <br>
+### Simulation
+After creating the bar I was able to start a simulation. I first applied a fixed support and applied the force on the correct face.
+      <br>
+    <img width="463" height="321" alt="Screenshot 2026-09-08 203946" src="https://github.com/user-attachments/assets/eaff4ee5-5dfd-4a6b-964d-fc67be85e3fe" />
     <img width="463" height="321" alt="Screenshot 2026-09-08 204152" src="https://github.com/user-attachments/assets/6321e5a8-89e4-43de-a069-1b7959e99ba1" />
       <br>
 
