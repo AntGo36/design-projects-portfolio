@@ -31,14 +31,28 @@ After downloading Solidworks I selected my final aluminum choice of 1060 Alloy, 
       <br>
     <img width="942" height="667" alt="Screenshot 2026-09-08 195342" src="https://github.com/user-attachments/assets/e1d16b58-398f-4716-8c46-e278c0156c8b" />
       <br>
-### Simulation
-After creating the bar I was able to start a simulation. I first applied a fixed support and applied the force on the correct face.
+<h3>Simulation</h3>
+  After creating the bar I was able to start a simulation. I first applied a fixed support and applied the force on the correct face.
       <br>
-    <img width="463" height="321" alt="Screenshot 2026-09-08 203946" src="https://github.com/user-attachments/assets/eaff4ee5-5dfd-4a6b-964d-fc67be85e3fe" />
-    <img width="463" height="321" alt="Screenshot 2026-09-08 204152" src="https://github.com/user-attachments/assets/6321e5a8-89e4-43de-a069-1b7959e99ba1" />
+    <img width="363" height="221" alt="Screenshot 2026-09-08 203946" src="https://github.com/user-attachments/assets/eaff4ee5-5dfd-4a6b-964d-fc67be85e3fe" />
+    <img width="363" height="221" alt="Screenshot 2026-09-08 204152" src="https://github.com/user-attachments/assets/6321e5a8-89e4-43de-a069-1b7959e99ba1" />
       <br>
+<h4>Deflection</h4>
+  When the simulation was complete, I first looked at the deflection or how much the bar stretched. It measured to be 0.00923 in. This left me a bit disappointed as it went over the tolerance by two tenths of a thou.
+      <br>
+    <img width="1192" height="511" alt="Screenshot 2026-09-08 200559" src="https://github.com/user-attachments/assets/1f78f771-5fed-4fa1-bfbf-0bf729d9484a" />
+      <br>
+<h4>Von Mises Stress curve</h4>
+  The Von Mises Stress curve showed the max stress to be ~4000 psi. Using a yield strength of 40 ksi it gives a safety factor of 10.
+      <br>
+    <img width="1220" height="576" alt="Screenshot 2026-09-08 200407" src="https://github.com/user-attachments/assets/992c8e3d-2947-4d27-8eb9-a11586f8aacc" />
+      <br>
+<h4>Pt 3</h4>
+  Overall the solidworks simulation was very close to what was expected. With a given deflection of 0.009 in and simulated 0.00923 in there is very little difference with it being  2.5% over. This percent difference makes little difference at this scale and the reason for it being there could be just discrepancies within different software.
+      <br>
+## Reflection
 
-      
+
 
 ## Download
  <a href="2157_A3_SLDPT.zip.001" download>Download zip File A</a>
