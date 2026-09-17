@@ -27,7 +27,7 @@
      <img width="4480" height="956" alt="IMG_4151 3" src="https://github.com/user-attachments/assets/4ef75f1b-43e3-4515-b049-0a06f49e2ad8" />
 
   
- ### Figure 2
+### Figure 2
  Figure 2 used the same equations as figure one however Some value values were different such as M and L. For this figure I found “L2” to equal the “L” for the first figure plus “h” from the first figure. With knowing the value of our new L, I found the moments to be the force P times 18 plus the new L Which was 17,959.45 N * mm. After solving for “h” I found the “h” From the max stress to be 12.976 mm and from the max displacement to be 17.614 mm. I once again use the largest value for “h”.
       <br>
      <img width="4566" height="1144" alt="IMG_4151 4" src="https://github.com/user-attachments/assets/c4c9255d-b83c-424b-b66b-645c84d9e170" />
