@@ -61,8 +61,8 @@
    <img width="858" height="826" alt="Screenshot 2026-09-16 154936" src="https://github.com/user-attachments/assets/bf78562a-2e14-4778-833b-fece420a2022" />
 
 ## Files
-
-
+ <a href="A4.SLDPRT" download>Download CAD File A</a>
+ <a href="A4.SLDDRW" download>Download Drawing PDF A</a>
 
 ## Communicate
 
