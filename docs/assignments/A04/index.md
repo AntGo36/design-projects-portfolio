@@ -69,12 +69,10 @@
    <li>Isometric</li>
  </ul>
    <img width="1000" height="600" alt="A4" src="https://github.com/user-attachments/assets/0488a3c0-2243-46f1-bc4f-1e2844b9c377" />
-    <br />
 
 ## Files
 <a href="A4.SLDPRT" download>Download CAD File</a>
 <a href="A4_drawing.pdf" download>Download Drawing PDF</a>
-<br />
 
 ## Communicate
 Overall, this assignment took a total of about 4 hours spread out. This is the first assignment within this class where I didn't have many major drawbacks and hangups. This is mostly due to me recognizing the limitations of my previous setup of Fusion 360 as there are many things like behind pay wall, so I got to familiarize myself with Solidworks after an amount of time without using it. When I first created the parameters of the base and length I made the error of mistaking the 22 mm to be the diameter of the motor. I also gained a better understanding of the CAD software as when I first used Solidworks I struggled with making extra extrusions off my object however, this was mainly due to a very non-standard setup I was using before.
