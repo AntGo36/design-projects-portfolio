@@ -33,7 +33,7 @@
      <img width="4566" height="1144" alt="IMG_4151 4" src="https://github.com/user-attachments/assets/c4c9255d-b83c-424b-b66b-645c84d9e170" />
 
  
-### CAD Model
+## CAD Model
    <img width="700" height="700" alt="IMG_4152" src="https://github.com/user-attachments/assets/5c7d3101-f923-4739-b220-bf4fe5e66326" />
     <br>
  For the CAD model I first set up the parameters. These parameters will help me assign the dimensions and solve for the unknowns through the software. I made sure to set up the extra ones needed later on such as the screw diameter and the diameter of the needed holes and insets for the motor.
@@ -50,15 +50,17 @@
    <br>
  I wanted to create a new extrusion on the side of figure one so I created a sketch at that site. After I extruded the value for “h2” found in the parameter equations I continued creating sketches and extruding.
     <br>
-   <img width="1078" height="732" alt="Screenshot 2026-09-16 153655" src="https://github.com/user-attachments/assets/9dd80533-3a46-4311-8a8a-3106bc7eeff9" />
-    <br>
-   <img width="707" height="802" alt="Screenshot 2026-09-16 153513" src="https://github.com/user-attachments/assets/902ded0a-1141-4fd3-9e26-f4e06b3ab2b2" />
+   <img width="800" height="500" alt="Screenshot 2026-09-16 153655" src="https://github.com/user-attachments/assets/9dd80533-3a46-4311-8a8a-3106bc7eeff9" />
     <br>
  I then came to the main face for figure 2 where I created a similar circle, as in figure 1. I lay down one screw hole by placing one circle on the edge of the 22 mm circle. I then created a circular pattern, where they’re all being distributed with the diameter of M3.
     <br>
-   <img width="635" height="805" alt="Screenshot 2026-09-16 154736" src="https://github.com/user-attachments/assets/5b7c809c-189e-4c85-8228-24a3edc0a8e7" />
+   <img width="300" height="400" alt="Screenshot 2026-09-16 154736" src="https://github.com/user-attachments/assets/5b7c809c-189e-4c85-8228-24a3edc0a8e7" />
     <br>
- 
+ I then end up with the completed mount. I made sure to check that all my dimensions were parameterized and correct as they matched all my calculations.
+    <br>
+   <img width="858" height="826" alt="Screenshot 2026-09-16 154936" src="https://github.com/user-attachments/assets/bf78562a-2e14-4778-833b-fece420a2022" />
+
+## Files
 
 
 
