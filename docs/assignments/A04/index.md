@@ -34,7 +34,7 @@
 
  
 ## CAD Model
-   <img width="500" height="500" alt="IMG_4152" src="https://github.com/user-attachments/assets/5c7d3101-f923-4739-b220-bf4fe5e66326" />
+   <img width="600" height="500" alt="IMG_4152" src="https://github.com/user-attachments/assets/5c7d3101-f923-4739-b220-bf4fe5e66326" />
     <br>
  For the CAD model I first set up the parameters. These parameters will help me assign the dimensions and solve for the unknowns through the software. I made sure to set up the extra ones needed later on such as the screw diameter and the diameter of the needed holes and insets for the motor.
     <br>
