@@ -1,4 +1,4 @@
-<img width="5767" height="2051" alt="IMG_4210" src="https://github.com/user-attachments/assets/87ced055-5c0e-4341-ad6f-4874b18f0560" /># A5 – Bracket Design
+# A5 – Bracket Design
 
 ## Objective
 
