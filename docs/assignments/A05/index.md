@@ -1,4 +1,4 @@
-# A5 – Bracket Design
+<img width="5767" height="2051" alt="IMG_4210" src="https://github.com/user-attachments/assets/87ced055-5c0e-4341-ad6f-4874b18f0560" /># A5 – Bracket Design
 
 ## Objective
 
@@ -29,22 +29,25 @@ As the image above shows, the bracket is broken up into five different parts, A,
 
 I first started with part eight as that's where the straps distributed force is. I think the length by analyzing the product page for the strap seeing that it was 3/4 an inch I made the length 1 inch. I first created a diagram and solved it symbolically. After fully solving, I found r (radius) to be 0.2942 in.
 
-(IMG)
+<img width="5767" height="2051" alt="IMG_4210" src="https://github.com/user-attachments/assets/a952fd34-374f-4c6a-97e1-1b1695b3346a" />
+
 
 I next moved to part B where I used the previously found Radius to find the thickness of the part which was 0.03399 in.
 
-(IMG)
+<img width="3657" height="1347" alt="IMG_4210 2" src="https://github.com/user-attachments/assets/25514372-ec29-4f0b-b98f-d88592f15f1d" />
+
 Part C is a similar process to B, for the base (b) I chose to use the thickness of part B and the length of part A to find the height. h = 0.03868 in.
 
-(IMG)
+<img width="3453" height="1118" alt="IMG_4211" src="https://github.com/user-attachments/assets/ef2829a4-d0cd-4b46-85bf-f8bac55c90be" />
 
 Part D once again is the same process as seen to find the width its height was previously  defined in the first diagram shown, “c” = 1.499 in.  I found its width to be w = 0.01334 in.
 
-(IMG)
+<img width="3513" height="1253" alt="IMG_4211 3" src="https://github.com/user-attachments/assets/f4e88bd9-3167-4147-8d02-bd75d5840acf" />
 
 As seen in parts, E one of the dimensions was previously defined. “b” = 0.9992 in. I solved for its height, which was h = 0.0200 in
 
-(IMG)
+<img width="3202" height="1053" alt="IMG_4211 2" src="https://github.com/user-attachments/assets/0c3d2693-cea7-4a10-b1ee-7d52e0196778" />
+
 
 
 ## Stiffness Analysis
