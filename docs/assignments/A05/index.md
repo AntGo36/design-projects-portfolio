@@ -14,9 +14,9 @@ The bracket shape is already provided. It has three known dimensions “a”, �
    <li>“b” = 0.9992 in with a tolerance of -0.0005</li>
    <li>“c” = 1.499 in with a tolerance of -0.001</li>
  </ul>
-       <br>
-    <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/28f104fc-e429-487c-b76b-f583a1d889e2" />
-      <br>
+    <br>
+  <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/28f104fc-e429-487c-b76b-f583a1d889e2" />
+    <br> 
 As seen in the image, the dimensions form a “T” shape, one could also see how the strap is to be mounted. The strap has two forces “F” that act on a circular part, more context could be seen from the full bracket design.
       <br>
     <img width="382" height="345" alt="image" src="https://github.com/user-attachments/assets/c6397057-fffc-4f20-85d9-f33401369198" />
