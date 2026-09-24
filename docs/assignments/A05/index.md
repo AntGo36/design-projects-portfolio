@@ -93,5 +93,6 @@ For hole A I chose RC2 because while it did match with RC1 I thought it to be be
 
 ## Communicate
 
-Overall, this assignment was the second most difficult for me. This is due to time management and constant errors within my numbers, for example in parts C for the stiffness analyzation, I must stuck the length to be “a” However, it was meant to be “a” + 2*”b”. Another example is that I got the wrong significant figures for my modulus of elasticity in the early stages. Without these mistakes, this assignment would've taken around four hours; however, with the mistakes I had to rewrite a whole page and redo my calculations which added an additional hour. 
+Overall, this assignment was the second most difficult for me. This is due to time management and constant errors within my numbers, for example in parts C for the stiffness analyzation, I must stuck the length to be “a” However, it was meant to be “a” + 2*”b”. Another example is that I got the wrong significant figures for my modulus of elasticity in the early stages. Without these mistakes, this assignment would've taken around four hours; however, with the mistakes I had to rewrite a whole page and redo my calculations which added an additional hour.
+<br><br>
 
