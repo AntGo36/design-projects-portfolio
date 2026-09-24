@@ -14,7 +14,7 @@ The bracket shape is already provided. It has three known dimensions “a”, �
    <li>“b” = 0.9992 in with a tolerance of -0.0005</li>
    <li>“c” = 1.499 in with a tolerance of -0.001</li>
  </ul>
-    <br>
+ 
   <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/28f104fc-e429-487c-b76b-f583a1d889e2" />
     <br> 
 As seen in the image, the dimensions form a “T” shape, one could also see how the strap is to be mounted. The strap has two forces “F” that act on a circular part, more context could be seen from the full bracket design.
@@ -79,6 +79,14 @@ Following suit part E does the same, it has the dimension “b” for its width.
 <img width="2647" height="1463" alt="IMG_4224" src="https://github.com/user-attachments/assets/cb8e87e9-5c24-4b7d-86b4-6c5b73b54500" />
 
 <img width="2680" height="1647" alt="IMG_4226" src="https://github.com/user-attachments/assets/b0a37ab5-e8db-4695-88c1-59d5e29bb8e8" />
+
+
+## 2157
+
+<img width="4000" height="2436" alt="IMG_3000" src="https://github.com/user-attachments/assets/f6f73e13-699e-4ce4-bd24-20681744156b" />
+
+<img width="2000" height="977" alt="IMG_3000 2" src="https://github.com/user-attachments/assets/e3fcd932-338e-4045-9aaf-a6adc238fcc4" />
+
 
 
 ## Communicate
