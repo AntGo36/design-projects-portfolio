@@ -89,6 +89,10 @@ The objective was to create a connector that would have two holes, one having a 
 <br>
 For hole A I chose RC2 because while it did match with RC1 I thought it to be better with a larger tolerance. For the 1 inch diameter hole I chose FN1.
 <img width="3429" height="977" alt="IMG_4228 2" src="https://github.com/user-attachments/assets/4c81dcba-aca7-4f51-83a9-865cd3385999" />
+<img width="1498" height="1009" alt="Screenshot 2026-09-24 at 7 22 24 AM" src="https://github.com/user-attachments/assets/3ba0a003-0c39-4def-b901-e80fe2eab911" />
+<img width="1477" height="939" alt="Screenshot 2026-09-24 at 7 22 48 AM" src="https://github.com/user-attachments/assets/a7e182bc-fcbd-4f86-ab3d-483e32331de9" />
+
+
 
 
 ## Communicate
