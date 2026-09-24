@@ -76,9 +76,9 @@ Following suit part E does the same, it has the dimension “b” for its width.
 
 ## Multiview sketches
 
-<img width="2647" height="1463" alt="IMG_4224" src="https://github.com/user-attachments/assets/cb8e87e9-5c24-4b7d-86b4-6c5b73b54500" />
+<img width="1323" height="731" alt="IMG_4224" src="https://github.com/user-attachments/assets/cb8e87e9-5c24-4b7d-86b4-6c5b73b54500" />
 
-<img width="2680" height="1647" alt="IMG_4226" src="https://github.com/user-attachments/assets/b0a37ab5-e8db-4695-88c1-59d5e29bb8e8" />
+<img width="1323" height="731" alt="IMG_4226" src="https://github.com/user-attachments/assets/b0a37ab5-e8db-4695-88c1-59d5e29bb8e8" />
 
 
 ## 2157
