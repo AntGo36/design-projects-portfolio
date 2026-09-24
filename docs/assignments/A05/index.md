@@ -83,11 +83,15 @@ Following suit part E does the same, it has the dimension “b” for its width.
 
 ## 2157
 
-<img width="4000" height="2436" alt="IMG_3000" src="https://github.com/user-attachments/assets/f6f73e13-699e-4ce4-bd24-20681744156b" />
+The objective was to create a connector that would have two holes, one having a diameter of 1 inch with a slight interference connection and the other to fit on part A with a slide connection.
+<img width="5391" height="2436" alt="IMG_4228" src="https://github.com/user-attachments/assets/ae430218-36e8-4383-8aa2-888780eed152" />
 
-<img width="2000" height="977" alt="IMG_3000 2" src="https://github.com/user-attachments/assets/e3fcd932-338e-4045-9aaf-a6adc238fcc4" />
-
+<br>
+For hole A I chose RC2 because while it did match with RC1 I thought it to be better with a larger tolerance. For the 1 inch diameter hole I chose FN1.
+<img width="3429" height="977" alt="IMG_4228 2" src="https://github.com/user-attachments/assets/4c81dcba-aca7-4f51-83a9-865cd3385999" />
 
 
 ## Communicate
+
+Overall, this assignment was the second most difficult for me. This is due to time management and constant errors within my numbers, for example in parts C for the stiffness analyzation, I must stuck the length to be “a” However, it was meant to be “a” + 2*”b”. Another example is that I got the wrong significant figures for my modulus of elasticity in the early stages. Without these mistakes, this assignment would've taken around four hours; however, with the mistakes I had to rewrite a whole page and redo my calculations which added an additional hour. 
 
