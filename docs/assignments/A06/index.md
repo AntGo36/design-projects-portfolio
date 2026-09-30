@@ -42,7 +42,7 @@ One would see that the bracket was made asymmetrical, instead of repeating the a
 
 ## Drawing
 
-<img width="1310" height="883" alt="A6" src="https://github.com/user-attachments/assets/d946edc0-c4a6-4f72-95db-62c44e113fc7" style="width: 40%; height: auto;"/>
+<img width="1310" height="883" alt="A6" src="https://github.com/user-attachments/assets/d946edc0-c4a6-4f72-95db-62c44e113fc7" style="width: 90%; height: auto;"/>
 
 
 ## 2157
