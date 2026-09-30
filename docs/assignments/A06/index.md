@@ -46,14 +46,18 @@ One would see that the bracket was made asymmetrical, instead of repeating the a
 
 ## 2157
 
+<h4>Design</h4>
+
 When creating the parameters for the link I found an error in my calculations that changes a number of things. The error was using the diameter of 1 in as the radius, this caused my outside diameter and length to be larger than intended and with that it made the width / thickness shallower than needed.
   <br>
   <img width="587" height="445" alt="Screenshot 2026-09-30 182321" src="https://github.com/user-attachments/assets/40ee9d26-6789-4fa0-8a9b-2ed9010e755b" style="width: 40%; height: auto;"/>
   <br>
 With the fixed values I found the minimum width to be the one found with stiffness, w = 0.0895 in. 
   <br>
-  <img width="427" height="612" alt="Screenshot 2026-09-30 181040" src="https://github.com/user-attachments/assets/40f0742b-e6f9-4812-ac5f-a36a044d143b" style="width: 40%; height: auto;"/>
-  <img width="452" height="713" alt="Screenshot 2026-09-30 182302" src="https://github.com/user-attachments/assets/30ae003f-4cc0-439d-b642-967a62f52da2"  style="width: 40%; height: auto;"/>
+  <img width="427" height="612" alt="Screenshot 2026-09-30 181040" src="https://github.com/user-attachments/assets/40f0742b-e6f9-4812-ac5f-a36a044d143b" style="width: 34%; height: auto;"/>
+  <img width="452" height="713" alt="Screenshot 2026-09-30 182302" src="https://github.com/user-attachments/assets/30ae003f-4cc0-439d-b642-967a62f52da2"  style="width: 30%; height: auto;"/>
+
+<h4>Drawing</h4>
 
 
 ## Communicate
