@@ -63,6 +63,7 @@ With the fixed values I found the minimum width to be the one found with stiffne
 
 ## Communicate
 
+This assignment held to be the most straightforward so far this is due to already having the calculations mostly finished and having already done CAD modeling and parametrics. This assignment helped me work on time management as the other previous assignments took longer than  the time I set aside for it so instead of climbing, all the documentation in one setting I was able to space things out better. I also found that I needed to examine my work more thoroughly as I found that I labeled diameter as radius, which threw off my calculations for the linkage, though this was fixed during modeling. With the holes from the linkage I referenced the tolerances from the book. One thing I wish to improve is to be more detailed or refined when making drawings as I was unable to create the angle projection symbols on this assignment.
 
 
 ## Files
