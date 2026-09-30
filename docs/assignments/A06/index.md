@@ -13,7 +13,7 @@ When doing this I realized I would have to adjust the significant figures from 1
   <br>
 I started designing in the same order I did the calculations with a part A. A was the only feature I used the calculated stress value rather than the stiffness value due to it being the larger value. When designing I started with the circle sketch and assigned the “r1” parameter.
   <br>
-  <img width="912" height="785" alt="Screenshot 2026-09-29 105739" src="https://github.com/user-attachments/assets/2014f000-15ba-4b8d-b578-8bfcbdfa2ead" />
+  <img width="912" height="785" alt="Screenshot 2026-09-29 105739" src="https://github.com/user-attachments/assets/2014f000-15ba-4b8d-b578-8bfcbdfa2ead" style="width: 70%; height: auto;">
   <br>
   
 
