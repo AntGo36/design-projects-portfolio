@@ -6,7 +6,7 @@ The objective is to create a parametrically CAD file and drawing of the T beam b
 
 ## Design
 
-When designing the bracket I first needed to define all the parameters and equations.
+When designing the bracket I first needed to define all the parameters and equations. <br>
 When doing this I realized I would have to adjust the significant figures from 10 thou to a tenth of a thou (0.01 –> 0.0001). Doing this helped parameters display a value rather than 0, (ex. 0.00 >> 0.0020). 
   <br>
   <img width="550" height="675" alt="Screenshot 2026-09-29 112828" src="https://github.com/user-attachments/assets/6039675a-2f5b-4cbf-aed8-481fb5d78296"  style="width: 40%; height: auto;"/>
@@ -43,8 +43,11 @@ One would see that the bracket was made asymmetrical, instead of repeating the a
 ## Drawing
 
 
-## Decide
+## 2157
 
 
 ## Communicate
+
+## Files
+
 
