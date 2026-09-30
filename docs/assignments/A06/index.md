@@ -59,7 +59,7 @@ With the fixed values I found the minimum width to be the one found with stiffne
 
 <h4>Drawing</h4>
 
-<img width="1310" height="883" alt="2157link" src="https://github.com/user-attachments/assets/d4ed7e05-b690-4153-96c5-700cb10a7faa" style="width: 30%; height: auto;"/>
+<img width="1310" height="883" alt="2157link" src="https://github.com/user-attachments/assets/d4ed7e05-b690-4153-96c5-700cb10a7faa" style="width: 90%; height: auto;"/>
 
 ## Communicate
 
