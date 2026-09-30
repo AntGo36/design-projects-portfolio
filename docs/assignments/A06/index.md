@@ -65,6 +65,10 @@ With the fixed values I found the minimum width to be the one found with stiffne
 
 ## Files
 
-<a href="A6.SLDPRT" download>Download CAD File</a>
-<a href="A6.pdf" download>Download PDF</a>
+<a href="A6.SLDPRT" download>Download Bracket CAD File</a>
+<a href="A6.pdf" download>Download Bracket PDF</a>
+<br>
+<a href="2157Link.SLDPRT" download>Download Link CAD File</a>
+<a href="2157Link.pdf" download>Download Link PDF</a>
+<br><br>
 
