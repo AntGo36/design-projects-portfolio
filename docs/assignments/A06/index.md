@@ -53,4 +53,5 @@ One would see that the bracket was made asymmetrical, instead of repeating the a
 ## Files
 
 <a href="A6.SLDPRT" download>Download CAD File</a>
+<a href="A6.pdf" download>Download PDF</a>
 
