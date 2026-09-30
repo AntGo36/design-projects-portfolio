@@ -9,12 +9,25 @@ The objective is to create a parametrically CAD file and drawing of the T beam b
 When designing the bracket I first needed to define all the parameters and equations.
 When doing this I realized I would have to adjust the significant figures from 10 thou to a tenth of a thou (0.01 –> 0.0001). Doing this helped parameters display a value rather than 0, (ex. 0.00 >> 0.0020). 
   <br>
-  <img width="550" height="675" alt="Screenshot 2026-09-29 112828" src="https://github.com/user-attachments/assets/6039675a-2f5b-4cbf-aed8-481fb5d78296" />
+  <img width="550" height="675" alt="Screenshot 2026-09-29 112828" src="https://github.com/user-attachments/assets/6039675a-2f5b-4cbf-aed8-481fb5d78296"  style="width: 50%; height: 50%;"/>
   <br>
 I started designing in the same order I did the calculations with a part A. A was the only feature I used the calculated stress value rather than the stiffness value due to it being the larger value. When designing I started with the circle sketch and assigned the “r1” parameter.
   <br>
-  <img width="912" height="785" alt="Screenshot 2026-09-29 105739" src="https://github.com/user-attachments/assets/2014f000-15ba-4b8d-b578-8bfcbdfa2ead" style="width: 70%; height: auto;">
+  <img width="912" height="785" alt="Screenshot 2026-09-29 105739" src="https://github.com/user-attachments/assets/2014f000-15ba-4b8d-b578-8bfcbdfa2ead" style="width: 40%; height: auto;"/>
   <br>
+After that first step I then extruded it to the length of “L1”  and created a sketch on the back for feature B.
+  <br>
+  <img width="756" height="487" alt="Screenshot 2026-09-29 105911" src="https://github.com/user-attachments/assets/7caf1f87-b17d-4087-bc27-a1f10a986047" />
+  <img width="533" height="792" alt="Screenshot 2026-09-29 105954" src="https://github.com/user-attachments/assets/b543a038-f70c-4cd7-8cf8-e6a45e58eaa7" />
+  <br>
+Now that the B sketch is created I extrude the thickness of “t2” and prepare the sketch for the height of part C.
+  <br>
+  <img width="810" height="793" alt="Screenshot 2026-09-29 110101" src="https://github.com/user-attachments/assets/e81dd964-eaaa-4033-a435-4daf3f7e0d17" />
+  <img width="1015" height="585" alt="Screenshot 2026-09-29 112305" src="https://github.com/user-attachments/assets/6ec62e90-1e25-4a23-a909-01a2566bf812" />
+  <br>
+The process is largely the same going forward with extruding C and preparing for part D by making a sketch on the side of C.
+  <br>
+  <img width="798" height="808" alt="Screenshot 2026-09-30 104623" src="https://github.com/user-attachments/assets/fd469437-414c-4038-8ecc-8680b60e4714" />
   
 
 
