@@ -20,7 +20,7 @@ After that first step I then extruded it to the length of “L1”  and created 
   <img width="756" height="487" alt="Screenshot 2026-09-29 105911" src="https://github.com/user-attachments/assets/7caf1f87-b17d-4087-bc27-a1f10a986047" style="width: 40%; height: auto;"/>
   <img width="533" height="792" alt="Screenshot 2026-09-29 105954" src="https://github.com/user-attachments/assets/b543a038-f70c-4cd7-8cf8-e6a45e58eaa7" style="width: 20%; height: auto;"/>
   <br>
-Now that the B sketch is created I extrude the thickness of “t2” and prepare the sketch for the height of part C.
+Now that the B sketch is created I extrude the thickness of “t2” and prepare the sketch for the height of part C. For the sketch I aligned the new sketch with B by creating center lines for the existing part and the sketch and making them coincident while making the bottom of the sketch collinear.
   <br>
   <img width="810" height="793" alt="Screenshot 2026-09-29 110101" src="https://github.com/user-attachments/assets/e81dd964-eaaa-4033-a435-4daf3f7e0d17" style="width: 40%; height: auto;"/>
   <img width="1015" height="585" alt="Screenshot 2026-09-29 112305" src="https://github.com/user-attachments/assets/6ec62e90-1e25-4a23-a909-01a2566bf812" style="width: 40%; height: auto;"/>
@@ -34,6 +34,13 @@ After extruding up to D, then create a sketch and extrude the D feature. Repeat 
   <img width="687" height="306" alt="Screenshot 2026-09-30 104527" src="https://github.com/user-attachments/assets/321091e1-b9c9-4acf-a9ce-e4c97e8d7bf9" style="width: 40%; height: auto;"/>
   <img width="885" height="583" alt="Screenshot 2026-09-30 104503" src="https://github.com/user-attachments/assets/6b983bc9-79a6-49d1-821c-b174883185db" style="width: 40%; height: auto;"/>
   <br>
+One would see that the bracket was made asymmetrical, instead of repeating the above steps it’s good to make use of the mirror feature. To mirror it I selected all my asymmetrical extrusions and mirrored them about the vertical plane.
+  <br>
+  <img width="662" height="742" alt="Screenshot 2026-09-29 112701" src="https://github.com/user-attachments/assets/a1a164d7-14da-437d-bd1b-5600a24a013e" style="width: 40%; height: auto;"/>
+  <img width="603" height="690" alt="Screenshot 2026-09-29 112732" src="https://github.com/user-attachments/assets/94ae5ce0-2d92-4568-b6f9-b3d4e84bddd7" style="width: 40%; height: auto;"/>
+
+
+## Drawing
 
 
 ## Decide
