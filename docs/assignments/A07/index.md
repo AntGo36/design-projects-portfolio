@@ -5,6 +5,38 @@ The objective was to run a FEA on the bracket made for a T beam previously desig
 
 ## Analyze
 
+<table>
+  <thead>
+    <tr>
+      <th>Design 1</th>
+      <th>Mesh1</th>
+      <th>Mesh 2</th>
+      <th>Mesh 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Max Stress</td>
+      <td>1.2 E2 Ksi</td>
+      <td>8.417 E2 Ksi</td>
+      <td>1.033 E3 Ksi</td>
+    </tr>
+    <tr>
+      <td>Max Deflection</td>
+      <td>0.9667 in</td>
+      <td>0.9947 in</td>
+      <td>1.001 in</td>
+    </tr>
+    <tr>
+      <td>S.F.</td>
+      <td>0.1856</td>
+      <td>0.1426</td>
+      <td>0.1162</td>
+    </tr>
+
+  </tbody>
+</table>
+
 
 ## Decide
 
