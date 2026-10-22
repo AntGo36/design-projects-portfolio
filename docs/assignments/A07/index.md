@@ -332,6 +332,10 @@ With the analysis of the link, one thing I found interesting was that the medium
     <img width="545" height="702" alt="Screenshot 2026-10-21 220533" src="https://github.com/user-attachments/assets/0a1885a7-6027-49ca-a1ef-19cf10637026" style="width: 30%; height: auto;"/>
     <img width="548" height="691" alt="Screenshot 2026-10-21 220523" src="https://github.com/user-attachments/assets/0abc71a3-a6b5-41d5-b8bb-188db580261f" style="width: 30%; height: auto;"/>
 
+## Files
 
+<a href="A7.SLDPRT" download>Bracket CAD File</a>  <br>
+<br>
+<a href="2157Link.SLDPRT" download>Link CAD File</a>  <br>
+<br><br>
   
-  <br>  <br>
