@@ -128,7 +128,46 @@ The third design managed to get even closer with the safety factor staying aroun
   </tfoot>
   </tbody>
 </table>
-
+  <br>
+  
+With my final design I managed to achieve a safety factor above one with minimal change.
+<table>
+  <thead>
+    <tr>
+      <th>Design 4</th>
+      <th>Mesh1</th>
+      <th>Mesh 2</th>
+      <th>Mesh 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Max Stress</td>
+      <td>77.67 Ksi</td>
+      <td>92.09 Ksi</td>
+      <td>96.42 Ksi</td>
+    </tr>
+    <tr>
+      <td>Max Deflection</td>
+      <td>0.0.0568 in</td>
+      <td>0.0601 in</td>
+      <td>0.0607 in</td>
+    </tr>
+    <tr>
+      <td>S.F.</td>
+      <td>1.545</td>
+      <td>1.303</td>
+      <td>1.245</td>
+    </tr>
+ <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Weight: 0.1836 Lb
+      </td>
+    </tr>
+  </tfoot>
+  </tbody>
+</table>
 
 
 
