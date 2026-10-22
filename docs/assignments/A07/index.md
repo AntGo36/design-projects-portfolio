@@ -216,3 +216,46 @@ With the analysis of the link, one thing I found interesting was that the medium
   </tbody>
 </table>
 
+## Images
+
+### Design 1
+  <h4>Mesh 1</h4>
+    <img width="740" height="670" alt="Screenshot 2026-10-15 104808" src="https://github.com/user-attachments/assets/500b4201-e15b-4daf-a109-e438ed59a96e" />
+    <img width="713" height="687" alt="Screenshot 2026-10-15 104943" src="https://github.com/user-attachments/assets/5753b4c9-d756-44f6-abd0-f26b3d4bce0b" />
+
+  <h4>Mesh 2</h4>
+    <img width="757" height="705" alt="Screenshot 2026-10-15 111600" src="https://github.com/user-attachments/assets/c97ca7d3-305f-4fc6-8345-d90a6b42338c" />
+    <img width="760" height="666" alt="Screenshot 2026-10-15 111630" src="https://github.com/user-attachments/assets/461e7e80-caf1-4036-8ee8-bccf2706a332" />
+
+  <h4>Mesh 3</h4>
+    <img width="793" height="695" alt="Screenshot 2026-10-15 114430" src="https://github.com/user-attachments/assets/5d4d7d34-e6ef-4b7b-8f33-321ff3d6052a" />
+    <img width="757" height="715" alt="Screenshot 2026-10-15 114507" src="https://github.com/user-attachments/assets/d52b21ef-a0ca-4e87-8965-a09462e44895" />
+
+  
+### Design 2
+  <h4>Mesh 1</h4>
+  
+  <h4>Mesh 2</h4>
+  
+  <h4>Mesh 3</h4>
+
+### Design 3
+  <h4>Mesh 1</h4>
+  
+  <h4>Mesh 2</h4>
+  
+  <h4>Mesh 3</h4>
+
+### Design 4
+  <h4>Mesh 1</h4>
+  
+  <h4>Mesh 2</h4>
+  
+  <h4>Mesh 3</h4>
+
+### Link
+  <h4>Mesh 1</h4>
+  
+  <h4>Mesh 2</h4>
+  
+  <h4>Mesh 3</h4>
