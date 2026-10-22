@@ -302,7 +302,7 @@ With the analysis of the link, one thing I found interesting was that the medium
     
 <img width="735" height="622" alt="Screenshot 2026-10-21 195856" src="https://github.com/user-attachments/assets/46010f59-39ff-42e7-b782-ce6228344426" style="width: 30%; height: auto;"/>
     
-  <img width="693" height="586" alt="Screenshot 2026-10-21 195904" src="https://github.com/user-attachments/assets/df9cf814-fe0c-4b25-a9b1-104e2749d94a" style="width: 30%; height: auto;"/>
+  <img width="693" height="586" alt="Screenshot 2026-10-21 195904" src="https://github.com/user-attachments/assets/df9cf814-fe0c-4b25-a9b1-104e2749d94a" style="width: 28%; height: auto;"/>
     <img width="752" height="663" alt="Screenshot 2026-10-21 195917" src="https://github.com/user-attachments/assets/6ee4a870-c781-4689-8a05-dca3cf4a9e52" style="width: 30%; height: auto;"/>
 
 
