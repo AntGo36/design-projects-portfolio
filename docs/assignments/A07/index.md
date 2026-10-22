@@ -171,8 +171,48 @@ With my final design I managed to achieve a safety factor above one with minimal
 
 
 
-## Decide
-
 
 ## Communicate
+This assignment took longer than expected as I ran too many technical difficulties has my laptop had trouble rendering the messages in the beginning after some restarting and messing around. I managed to get it stable where I can make a simulation in a 30 seconds rather than 15 minutes. Even without these technical difficulties, I had misunderstood the safety factor as for some reason I didn't take accounts that it was dependent on the stress. Because of this, I went through trial and error for about an hour only to realize how much more simple it could've been.
+
+## 2157
+
+With the analysis of the link, one thing I found interesting was that the medium mesh was somehow larger when it came to max stress and smaller when it came to deflection than both the fine and large mesh.
+<table>
+  <thead>
+    <tr>
+      <th>Design 1</th>
+      <th>Mesh1</th>
+      <th>Mesh 2</th>
+      <th>Mesh 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Max Stress</td>
+      <td>8.858 Ksi</td>
+      <td>8.979 Ksi</td>
+      <td>8.942 Ksi</td>
+    </tr>
+    <tr>
+      <td>Max Deflection</td>
+      <td>0.00077 in</td>
+      <td>0.000736 in</td>
+      <td>0.00074 in</td>
+    </tr>
+    <tr>
+      <td>S.F.</td>
+      <td>13.55</td>
+      <td>13.36</td>
+      <td>13.42</td>
+    </tr>
+ <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Weight: 0.0872 Lb
+      </td>
+    </tr>
+  </tfoot>
+  </tbody>
+</table>
 
