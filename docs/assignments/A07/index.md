@@ -173,7 +173,9 @@ With my final design I managed to achieve a safety factor above one with minimal
 
 
 ## Communicate
-This assignment took longer than expected as I ran too many technical difficulties has my laptop had trouble rendering the messages in the beginning after some restarting and messing around. I managed to get it stable where I can make a simulation in a 30 seconds rather than 15 minutes. Even without these technical difficulties, I had misunderstood the safety factor as for some reason I didn't take accounts that it was dependent on the stress. Because of this, I went through trial and error for about an hour only to realize how much more simple it could've been.
+This assignment took longer than expected as I ran too many technical difficulties has my laptop had trouble rendering the messages in the beginning after some restarting and messing around. I managed to get it stable where I can make a simulation in 30 seconds rather than 15 minutes. Even without these technical difficulties, I had misunderstood the safety factor as for some reason I didn't take accounts that it was dependent on the stress. Because of this, I went through trial and error for about an hour only to realize how much more simple it could've been.
+<br>
+The most difficult part of this assignment was simply transferring files as the device I have Solidworks on is not my main device as my main device does not support Solidworks. Transferring files from computer to computer was tedious as I'd have to organize and get used to the workflow that I abandoned with the solidworks computer and when I found mistakes, I would have to delete the files then open Solidworks again to the correct simulation, then transfer.
 
 ## 2157
 
