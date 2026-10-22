@@ -300,15 +300,34 @@ With the analysis of the link, one thing I found interesting was that the medium
 
   <h4>Mesh 3</h4>
     
-  <img width="735" height="622" alt="Screenshot 2026-10-21 195856" src="https://github.com/user-attachments/assets/46010f59-39ff-42e7-b782-ce6228344426" style="width: 30%; height: auto;"/>
+<img width="735" height="622" alt="Screenshot 2026-10-21 195856" src="https://github.com/user-attachments/assets/46010f59-39ff-42e7-b782-ce6228344426" style="width: 30%; height: auto;"/>
     
-    <img width="693" height="586" alt="Screenshot 2026-10-21 195904" src="https://github.com/user-attachments/assets/df9cf814-fe0c-4b25-a9b1-104e2749d94a" style="width: 30%; height: auto;"/>
+  <img width="693" height="586" alt="Screenshot 2026-10-21 195904" src="https://github.com/user-attachments/assets/df9cf814-fe0c-4b25-a9b1-104e2749d94a" style="width: 30%; height: auto;"/>
     <img width="752" height="663" alt="Screenshot 2026-10-21 195917" src="https://github.com/user-attachments/assets/6ee4a870-c781-4689-8a05-dca3cf4a9e52" style="width: 30%; height: auto;"/>
 
 
 ### Link
+
   <h4>Mesh 1</h4>
+
+  <img width="576" height="707" alt="Screenshot 2026-10-21 210648" src="https://github.com/user-attachments/assets/6733d428-9e44-4241-b3f4-9e83517d8ec0" style="width: 30%; height: auto;"/>
+    <img width="478" height="692" alt="Screenshot 2026-10-21 210658" src="https://github.com/user-attachments/assets/373d4d1f-be49-4dc6-981d-065f7b865734" style="width: 30%; height: auto;"/>
+    <img width="537" height="671" alt="Screenshot 2026-10-21 210712" src="https://github.com/user-attachments/assets/b4117d99-a652-44da-9e07-03d002f8d419" style="width: 30%; height: auto;"/>
+
   
   <h4>Mesh 2</h4>
   
+<img width="535" height="681" alt="Screenshot 2026-10-21 210856" src="https://github.com/user-attachments/assets/f0b2256f-22bc-4b34-aa3b-4aea89de73b7" style="width: 30%; height: auto;"/>
+    <img width="515" height="702" alt="Screenshot 2026-10-21 210922" src="https://github.com/user-attachments/assets/c4e71cab-923b-459b-87b1-43f452d10a58" style="width: 30%; height: auto;"/>
+    <img width="523" height="687" alt="Screenshot 2026-10-21 210955" src="https://github.com/user-attachments/assets/2dedc7fc-103e-4090-b109-b8d68a929e13" style="width: 30%; height: auto;"/>
+
+  
   <h4>Mesh 3</h4>
+    
+  <img width="586" height="710" alt="Screenshot 2026-10-21 220545" src="https://github.com/user-attachments/assets/f99e6ed6-8217-4707-ac38-29ebf08d2a7f" style="width: 30%; height: auto;"/>
+    <img width="545" height="702" alt="Screenshot 2026-10-21 220533" src="https://github.com/user-attachments/assets/0a1885a7-6027-49ca-a1ef-19cf10637026" style="width: 30%; height: auto;"/>
+    <img width="548" height="691" alt="Screenshot 2026-10-21 220523" src="https://github.com/user-attachments/assets/0abc71a3-a6b5-41d5-b8bb-188db580261f" style="width: 30%; height: auto;"/>
+
+
+  
+  <br>  <br>
