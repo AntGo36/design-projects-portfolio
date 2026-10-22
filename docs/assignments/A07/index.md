@@ -35,7 +35,13 @@ The initial design was the same one created in A6. One thing that I will note is
       <td>0.1426</td>
       <td>0.1162</td>
     </tr>
-
+ <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Weight: 0.1428 Lb
+      </td>
+    </tr>
+  </tfoot>
   </tbody>
 </table>
 
@@ -72,9 +78,18 @@ What's the second design I managed to get above the safety factor for the first 
       <td>0.7689</td>
       <td>0.6431</td>
     </tr>
+ <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Weight: 0.1699 Lb
+      </td>
+    </tr>
+  </tfoot>
   </tbody>
 </table>
-
+  <br>
+The third design managed to get even closer with the safety factor staying around one and also managed to decrease the deflection. The main problem that I once again ran into was the max dress increasing with the mesh growing finer.
+  <br>
 
 <table>
   <thead>
@@ -104,6 +119,13 @@ What's the second design I managed to get above the safety factor for the first 
       <td>0.997</td>
       <td>0.964</td>
     </tr>
+ <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Weight: 0.1774 Lb
+      </td>
+    </tr>
+  </tfoot>
   </tbody>
 </table>
 
