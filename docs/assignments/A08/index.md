@@ -11,13 +11,15 @@ The spur gears are to have a 24:9 ratio and the output gear torque is 1.25 in-Lb
 ### Shafts
  I first found the properties of the shafts starting with the power transmission. I found the velocity, torsion, torque, and power. For the power transmission, these values are all the inputs. For the short shaft, I had to find torsion and power as I already had the other outputs listed in the given.
 <br>
-<img width="4357" height="1322" alt="Shafts" src="https://github.com/user-attachments/assets/453da372-7420-44b9-8b62-8444ebf0dd84" />
+<img width="3466" height="1071" alt="Shafts" src="https://github.com/user-attachments/assets/8f92f932-502b-49f7-914b-6c4e8dfa6302" />
+
 <br>
 
 ### Journal Bearings
 After finding the shaft properties I designed the journal bearing for this I needed to find PV, velocity, pressure Fr, Fr and thickness. Once again, I had to find them for the input and output. 
 <br>
-<img width="4276" height="1490" alt="bearings1" src="https://github.com/user-attachments/assets/c0dc2bdf-2d3f-4530-9d57-f6ba09007d16" />
+<img width="3334" height="1024" alt="Bearings" src="https://github.com/user-attachments/assets/7e93c86d-db2f-4d24-955c-fb28f63194d3" />
+
 <br>
 To find the thickness I first had to choose some material outlined in the table for my assembly. I chose Acetal because it best matched my PV. After finding thicknessI can find the diameter of the input in output.
 <br>
