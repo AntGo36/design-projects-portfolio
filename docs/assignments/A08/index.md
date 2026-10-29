@@ -33,15 +33,15 @@ To find the thickness I first had to choose some material outlined in the table 
 
 I first started with making the gearbox main body. This was done by taking the Pitch diameter and creating two circles side-by-side, adjusting the diameter for each part by then creating enough space around the gears and creating the wall, after this I extruded and fillet for looks. After doing this, I then created the holes for the screws, which have a diameter of 0.06 in.
 
-<img width="601" height="531" alt="Trsnsmiss" src="https://github.com/user-attachments/assets/5d0a93dd-f67f-4368-b0b9-988aa7529890" style="width: 35%; height: auto;"/>
+<img width="601" height="531" alt="Trsnsmiss" src="https://github.com/user-attachments/assets/5d0a93dd-f67f-4368-b0b9-988aa7529890" style="width: 30%; height: auto;"/>
 
-<img width="637" height="472" alt="OutShaft" src="https://github.com/user-attachments/assets/a95a5f2d-a2d8-4abe-963e-7769e34fb073" style="width: 35%; height: auto;"/>
+<img width="637" height="472" alt="OutShaft" src="https://github.com/user-attachments/assets/a95a5f2d-a2d8-4abe-963e-7769e34fb073" style="width: 30%; height: auto;"/>
 
  After creating the box, I put in the gears and made the  assembly, I put in the bearings and then created the top for the gearbox. To do this I made a copy of the gearbox body and adjusted the height and screw holes.
 
-<img width="882" height="671" alt="Screenshot 2026-10-28 231124" src="https://github.com/user-attachments/assets/5a707aa5-600f-4cbf-91c7-41e5e3752d91" style="width: 35%; height: auto;"/>
+<img width="882" height="671" alt="Screenshot 2026-10-28 231124" src="https://github.com/user-attachments/assets/5a707aa5-600f-4cbf-91c7-41e5e3752d91" style="width: 30%; height: auto;"/>
 
-<img width="922" height="725" alt="Screenshot 2026-10-28 225824" src="https://github.com/user-attachments/assets/6e7c796f-ad25-4a7a-b01c-557004bf77fb" style="width: 35%; height: auto;"/>
+<img width="922" height="725" alt="Screenshot 2026-10-28 225824" src="https://github.com/user-attachments/assets/6e7c796f-ad25-4a7a-b01c-557004bf77fb" style="width: 30%; height: auto;"/>
 
 
 
