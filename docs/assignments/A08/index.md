@@ -58,8 +58,9 @@ I first started with making the gearbox main body. This was done by taking the P
 
 
 ## Communicate
-
-
+This assignment was very straightforward. It was a combination of many of the same that came before overall this assignment took me around eight hours. And I will say that I did not allow enough time to do this assignment as I ended up rushing till the last minute because I started later than I wanted. The challenges I faced with this assignment, was navigating the textbook and time management as if I allotted more time that would've been very stream line. One thing I will note is that I still don't completely understand everything this assignment touched, I'm aware of what the equations do however it still hasn't completely clicked for me.
+<br>
+One thing I would say I improved on was my CAD skills. I believe I was able to work faster and more efficiently on both modeling and creating the drawings add to my main problems, stemmed from organization. I also believe that I've gotten better at planing on paper.
 
 
 ## Files
