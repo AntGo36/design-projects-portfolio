@@ -32,9 +32,14 @@ To find the thickness I first had to choose some material outlined in the table 
 
 
 ## Design
+
+I first started with making the gearbox main body. This was done by taking the Pitch diameter and creating two circles side-by-side, adjusting the diameter for each part by then creating enough space around the gears and creating the wall, after this I extruded and fillet for looks. After doing this, I then created the holes for the screws, which have a diameter of 0.06 in.
+
 <img width="601" height="531" alt="Trsnsmiss" src="https://github.com/user-attachments/assets/5d0a93dd-f67f-4368-b0b9-988aa7529890" style="width: 40%; height: auto;"/>
 
 <img width="637" height="472" alt="OutShaft" src="https://github.com/user-attachments/assets/a95a5f2d-a2d8-4abe-963e-7769e34fb073" style="width: 40%; height: auto;"/>
+
+ After creating the box, I put in the gears and made the  assembly, I put in the bearings and then created the top for the gearbox. To do this I made a copy of the gearbox body and adjusted the height and screw holes.
 
 <img width="882" height="671" alt="Screenshot 2026-10-28 231124" src="https://github.com/user-attachments/assets/5a707aa5-600f-4cbf-91c7-41e5e3752d91" style="width: 40%; height: auto;"/>
 
@@ -43,12 +48,12 @@ To find the thickness I first had to choose some material outlined in the table 
 
 
 ## 2157
-<img width="1310" height="848" alt="Box_main" src="https://github.com/user-attachments/assets/3b2e129e-9e56-4637-aa11-ac39f4a71888" style="width: 40%; height: auto;"/>
-<img width="1310" height="848" alt="Box_top" src="https://github.com/user-attachments/assets/6524df36-fb69-4185-abba-bb72a1c0e69f" style="width: 40%; height: auto;"/>
-<img width="1293" height="773" alt="Output_Shaft" src="https://github.com/user-attachments/assets/6d6c7c4d-b078-4a73-af45-8cf719021b33" style="width: 40%; height: auto;"/>
-<img width="1310" height="848" alt="Input_Shaft" src="https://github.com/user-attachments/assets/426e8669-a06a-48f6-ab15-d60f99bbb575" style="width: 40%; height: auto;"/>
-<img width="1310" height="848" alt="Output_Bearing" src="https://github.com/user-attachments/assets/77b63065-84ff-427b-b3f8-fc07308b8aea" style="width: 40%; height: auto;"/>
-<img width="1310" height="848" alt="Input_Bearing" src="https://github.com/user-attachments/assets/64f3a0eb-d781-49bf-89d3-078b116cbea9" style="width: 40%; height: auto;"/>
+<img width="1310" height="848" alt="Box_main" src="https://github.com/user-attachments/assets/3b2e129e-9e56-4637-aa11-ac39f4a71888" style="width: 67%; height: auto;"/>
+<img width="1310" height="848" alt="Box_top" src="https://github.com/user-attachments/assets/6524df36-fb69-4185-abba-bb72a1c0e69f" style="width: 67%; height: auto;"/>
+<img width="1293" height="773" alt="Output_Shaft" src="https://github.com/user-attachments/assets/6d6c7c4d-b078-4a73-af45-8cf719021b33" style="width: 67%; height: auto;"/>
+<img width="1310" height="848" alt="Input_Shaft" src="https://github.com/user-attachments/assets/426e8669-a06a-48f6-ab15-d60f99bbb575" style="width: 67%; height: auto;"/>
+<img width="1310" height="848" alt="Output_Bearing" src="https://github.com/user-attachments/assets/77b63065-84ff-427b-b3f8-fc07308b8aea" style="width: 67%; height: auto;"/>
+<img width="1310" height="848" alt="Input_Bearing" src="https://github.com/user-attachments/assets/64f3a0eb-d781-49bf-89d3-078b116cbea9" style="width: 67%; height: auto;"/>
 
 
 
