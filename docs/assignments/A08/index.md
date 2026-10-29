@@ -13,8 +13,6 @@ The spur gears are to have a 24:9 ratio and the output gear torque is 1.25 in-Lb
 <br>
 <img width="3466" height="1071" alt="Shafts" src="https://github.com/user-attachments/assets/8f92f932-502b-49f7-914b-6c4e8dfa6302" />
 
-<br>
-
 ### Journal Bearings
 After finding the shaft properties I designed the journal bearing for this I needed to find PV, velocity, pressure Fr, Fr and thickness. Once again, I had to find them for the input and output. 
 <br>
