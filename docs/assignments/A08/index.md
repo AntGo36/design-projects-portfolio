@@ -36,3 +36,14 @@ To find the thickness I first had to choose some material outlined in the table 
 
 ## Communicate
 
+## Files
+<a href="Box_main.SLDPRT" download>Box Body</a><br>
+<a href="Box_top.SLDPRT" download>BoxTop</a><br>
+<a href="Input_Shaft.SLDPRT" download>Input Shaft</a><br>
+<a href="Output_Shaft.SLDPRT" download>Output Shaft</a><br>
+<a href="91251A052_Black-Oxide Alloy Steel Socket Head Screw.SLDPRT" download>Screw</a><br>
+<a href="7880K24_Metal Gear - 20 Degree Pressure Angle.SLDPRT" download>Output Gear</a><br>
+<a href="7880K19_Metal Gear - 20 Degree Pressure Angle.SLDPRT" download>Input Gear</a><br>
+<a href="60695K1_Dry-Running Metal-Reinforced PTFE Sleeve Bearing.SLDPRT" download>Output Bearing</a><br>
+<a href="6391K753_Oil-Embedded 841 Bronze Sleeve Bearing.SLDPRT" download>Input Bearing</a><br>
+Box_top.SLDPRT
