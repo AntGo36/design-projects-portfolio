@@ -32,9 +32,24 @@ To find the thickness I first had to choose some material outlined in the table 
 
 
 ## Design
+<img width="601" height="531" alt="Trsnsmiss" src="https://github.com/user-attachments/assets/5d0a93dd-f67f-4368-b0b9-988aa7529890" style="width: 30%; height: auto;"/>
+
+<img width="637" height="472" alt="OutShaft" src="https://github.com/user-attachments/assets/a95a5f2d-a2d8-4abe-963e-7769e34fb073" style="width: 30%; height: auto;"/>
+
+<img width="882" height="671" alt="Screenshot 2026-10-28 231124" src="https://github.com/user-attachments/assets/5a707aa5-600f-4cbf-91c7-41e5e3752d91" style="width: 30%; height: auto;"/>
+
+<img width="922" height="725" alt="Screenshot 2026-10-28 225824" src="https://github.com/user-attachments/assets/6e7c796f-ad25-4a7a-b01c-557004bf77fb" style="width: 30%; height: auto;"/>
+
+
+
+## 2157
+
 
 
 ## Communicate
+
+
+
 
 ## Files
 <a href="Box_main.SLDPRT" download>Box Body</a><br>
@@ -46,4 +61,5 @@ To find the thickness I first had to choose some material outlined in the table 
 <a href="7880K19_Metal Gear - 20 Degree Pressure Angle.SLDPRT" download>Input Gear</a><br>
 <a href="60695K1_Dry-Running Metal-Reinforced PTFE Sleeve Bearing.SLDPRT" download>Output Bearing</a><br>
 <a href="6391K753_Oil-Embedded 841 Bronze Sleeve Bearing.SLDPRT" download>Input Bearing</a><br>
-Box_top.SLDPRT
+<br>
+<br>
