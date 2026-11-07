@@ -221,7 +221,9 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
 
 ## Section 4: Parametrically Model (CAD) - Antonio Goodson
 
-
+<a href="https://www.mcmaster.com/95120A111/">Flange Nut.</a>
+<a href="https://www.mcmaster.com/98935A823/">Lead Screw.</a>
+<a href="https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48?/">T-Slot Frame.</a>
 ---
 
 ## Section 5: FEA Analysis - Jarek Hernandez Acaba
