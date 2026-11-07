@@ -216,6 +216,7 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
 
 ### Task 3.4 — Multiview Paper Sketch of Crosshead - Antonio Goodson
 
+<img width="5226" height="3113" alt="Sketch" src="https://github.com/user-attachments/assets/94b7b15d-73f4-4ffc-9101-4279405591b0"  style="width: 80%; height: auto;"/>
 
 ---
 
@@ -264,7 +265,7 @@ Before I begin modeling, the most important thing is to gather the necessary com
   <br>
 I first started with the initial sketch with two rectangles 14 the overall length and the second for the distance between features. I made two holes, one for the flange diameter, and the other for the hole needed to hold the flange as shown in the flange drawing.
 
-<img width="1050" height="811" alt="Flange_Drawing" src="https://github.com/user-attachments/assets/e0ea8727-476a-4cf3-9faa-7f379edb883f" />
+<img width="1050" height="811" alt="Flange_Drawing" src="https://github.com/user-attachments/assets/e0ea8727-476a-4cf3-9faa-7f379edb883f" style="width: 50%; height: auto;"/>
 
   <br>
 
