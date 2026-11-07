@@ -221,6 +221,7 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
 
 ## Section 4: Parametrically Model (CAD) - Antonio Goodson
 
+Before I begin modeling, the most important thing is to gather the necessary components as knowing them and having their dimensions were greatly help everything work together. <br>
 
 <table>
   <thead>
@@ -260,9 +261,25 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
     </tr>
   </tbody>
 </table>
-<a href="https://www.mcmaster.com/95120A111/">Flange Nut</a>
-<a href="https://www.mcmaster.com/98935A823/">Lead Screw</a>
-<a href="https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48?/">T-Slot Frame</a>
+  <br>
+I first started with the initial sketch with two rectangles 14 the overall length and the second for the distance between features. I made two holes, one for the flange diameter, and the other for the hole needed to hold the flange as shown in the flange drawing.
+
+<img width="1050" height="811" alt="Flange_Drawing" src="https://github.com/user-attachments/assets/e0ea8727-476a-4cf3-9faa-7f379edb883f" />
+
+  <br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
 ---
 
 ## Section 5: FEA Analysis - Jarek Hernandez Acaba
