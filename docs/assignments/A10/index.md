@@ -221,9 +221,48 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
 
 ## Section 4: Parametrically Model (CAD) - Antonio Goodson
 
-<a href="https://www.mcmaster.com/95120A111/">Flange Nut.</a>
-<a href="https://www.mcmaster.com/98935A823/">Lead Screw.</a>
-<a href="https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48?/">T-Slot Frame.</a>
+
+<table>
+  <thead>
+    <tr>
+      <th>Item Number</th>
+      <th>Quantity</th>
+      <th>Name</th>
+      <th>Cost Per 3</th>
+      <th>Cost</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1/2"-10 Lead Screw</td>
+      <td>$9.90</td>
+      <td>$19.80</td>
+      <td>www.mcmaster.com/98935A823</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>1/2"-10 Lead Screw</td>
+      <td>$125.72 each</td>
+      <td>$251.44</td>
+      <td>www.mcmaster.com/95120A111/</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>1</td>
+      <td>T-Slot Framing System</td>
+      <td>$245.87</td>
+      <td>$245.87</td>
+      <td>www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48</td>
+    </tr>
+  </tbody>
+</table>
+<a href="https://www.mcmaster.com/95120A111/">Flange Nut</a>
+<a href="https://www.mcmaster.com/98935A823/">Lead Screw</a>
+<a href="https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48?/">T-Slot Frame</a>
 ---
 
 ## Section 5: FEA Analysis - Jarek Hernandez Acaba
