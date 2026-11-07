@@ -28,7 +28,7 @@ Design and perform structural analysis for a mechanically driven lead-screw cros
     * Minimum minor diameter (dmin)
 
 * **b. Free Body Diagram (FBD):**
-  ![Lead Screw Axial Tension FBD](fbd_leadscrew_axial.JPG)
+  ![Lead Screw Axial Tension FBD](https://github.com/user-attachments/assets/8d0d00af-2789-4b7b-85b8-dfc44eb85bd5)
 
 * **c. Symbolic Solution:**
 
@@ -59,7 +59,8 @@ dmin=4(4)1000N(300106N/m2)0.00412m=4.12mm(0.162in)
     * Maximum rotational speed (RPMmax)
 
 * **b. Free Body Diagram (FBD):**
-  ![Rotational Speed to Velocity Diagram](fbd_rotational_speed.JPG)
+    ![Rotational Speed to Velocity Diagram](https://github.com/user-attachments/assets/a7acc801-67f2-4e0e-a50e-7812e7562daa)
+
 
 * **c. Symbolic Solution:**
 
