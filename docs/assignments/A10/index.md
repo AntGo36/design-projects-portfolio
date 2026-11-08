@@ -300,8 +300,9 @@ I downloaded the necessary files and loaded them into an assembly, first startin
 <img width="1445" height="647" alt="With_Lead" src="https://github.com/user-attachments/assets/42019f13-144d-4bc1-955c-3f7f8704d998"  style="width: 45%; height: auto;"/>
 </div>
 The last thing the insert into the assembly was the frame. I had to cut the frame multiple times to fit to side, and I made sure to stay within the length that was priced.<br>
+<div style="display: flex; gap: 10px; justify-content: center;">
 <img width="520" height="750" alt="With_Frame" src="https://github.com/user-attachments/assets/b1c7d190-833f-4238-92b3-738623954495" style="width: 30%; height: auto;"/>
-
+</div>
 
 <br>
 ---
