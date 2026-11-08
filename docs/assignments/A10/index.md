@@ -224,6 +224,8 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
 
 Before I begin modeling, the most important thing is to gather the necessary components as knowing them and having their dimensions were greatly help everything work together. <br>
 
+### Cost table
+
 <table>
   <thead>
     <tr>
@@ -247,7 +249,7 @@ Before I begin modeling, the most important thing is to gather the necessary com
     <tr>
       <td>2</td>
       <td>2</td>
-      <td>1/2"-10 Lead Screw</td>
+      <td>Flange Nut</td>
       <td>$125.72 each</td>
       <td>$251.44</td>
       <td>www.mcmaster.com/95120A111/</td>
@@ -260,17 +262,40 @@ Before I begin modeling, the most important thing is to gather the necessary com
       <td>$245.87</td>
       <td>www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48</td>
     </tr>
+    <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Total Cost: $517.11
+      </td>
+    </tr>
+  </tfoot>
   </tbody>
 </table>
   <br>
-I first started with the initial sketch with two rectangles 14 the overall length and the second for the distance between features. I made two holes, one for the flange diameter, and the other for the hole needed to hold the flange as shown in the flange drawing.
 
-<img width="1050" height="811" alt="Flange_Drawing" src="https://github.com/user-attachments/assets/e0ea8727-476a-4cf3-9faa-7f379edb883f" style="width: 50%; height: auto;"/>
+### Parametric Modeling
 
+When creating the equations I had to reference the geometry used for the flange nut.
+<div style="display: flex; gap: 10px; justify-content: center;">
+<img width="1050" height="811" alt="Flange_Drawing" src="https://github.com/user-attachments/assets/e0ea8727-476a-4cf3-9faa-7f379edb883f" style="width: 45%; height: auto;"/>
+<img width="585" height="553" alt= "Equations" src="https://github.com/user-attachments/assets/7e17d639-45b7-41b6-936f-2b8ff1ce9756"  style="width: 37%; height: auto;"/>
+</div>
+I first started with the initial sketch with two rectangles 14 the overall length and the second for the distance between features. I made two holes, one for the flange diameter, and the other for the hole needed to hold the flange nut as shown in the drawing.
   <br>
+<img width="961" height="287" alt="Screenshot 2026-11-07 143939" src="https://github.com/user-attachments/assets/91ac1d8a-a085-414a-a234-a935cba6e87d"  style="width: 70%; height: auto;"/>
+<br>
+After creating the sketch I then went to extrude. When extruding I excluded the thru hole needed and created a extruded cut for the inset diameter.
+<div style="display: flex; gap: 10px; justify-content: center;">
+<img width="966" height="483" alt="Thru_Hole" src="https://github.com/user-attachments/assets/d9040aa2-f337-4d51-8026-1090f8117aee" style="width: 40%; height: auto;"/>
+<img width="643" height="310" alt="Extruded_Cut" src="https://github.com/user-attachments/assets/7749414b-1d5c-4f70-a408-71e5d1d7d7a9" style="width: 42%; height: auto;"/>
+</div>
 
+### Assembly 
 
+I downloaded the necessary files and loaded them into a assembly, first starting with the crosshead and the flange nut
+<img width="566" height="282" alt="Crosshead_and_Nut" src="https://github.com/user-attachments/assets/cd3d5168-0c51-49bc-86f1-deaf8f28a8e5" />
 
+<img width="1445" height="647" alt="Screenshot 2026-11-07 153647" src="https://github.com/user-attachments/assets/42019f13-144d-4bc1-955c-3f7f8704d998" />
 
 
 
