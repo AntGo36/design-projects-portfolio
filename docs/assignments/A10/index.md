@@ -282,7 +282,7 @@ When creating the equations I had to reference the geometry used for the flange 
 </div>
 I first started with the initial sketch with two rectangles 14 the overall length and the second for the distance between features. I made two holes, one for the flange diameter, and the other for the hole needed to hold the flange nut as shown in the drawing.
   <br>
-<img width="961" height="287" alt="Screenshot 2026-11-07 143939" src="https://github.com/user-attachments/assets/91ac1d8a-a085-414a-a234-a935cba6e87d"  style="width: 70%; height: auto;"/>
+<img width="961" height="287" alt="CAD_Sketch" src="https://github.com/user-attachments/assets/91ac1d8a-a085-414a-a234-a935cba6e87d"  style="width: 70%; height: auto;"/>
 <br>
 After creating the sketch I then went to extrude. When extruding I excluded the thru hole needed and created a extruded cut for the inset diameter.
 <div style="display: flex; gap: 10px; justify-content: center;">
@@ -292,11 +292,13 @@ After creating the sketch I then went to extrude. When extruding I excluded the 
 
 ### Assembly 
 
-I downloaded the necessary files and loaded them into a assembly, first starting with the crosshead and the flange nut
-<img width="566" height="282" alt="Crosshead_and_Nut" src="https://github.com/user-attachments/assets/cd3d5168-0c51-49bc-86f1-deaf8f28a8e5" />
-
-<img width="1445" height="647" alt="Screenshot 2026-11-07 153647" src="https://github.com/user-attachments/assets/42019f13-144d-4bc1-955c-3f7f8704d998" />
-
+I downloaded the necessary files and loaded them into a assembly, first starting with the crosshead and the flange nut. After connecting those two, I then flipped it and assigned it to the two lead screws.
+<div style="display: flex; gap: 10px; justify-content: center;">
+<img width="566" height="282" alt="Crosshead_and_Nut" src="https://github.com/user-attachments/assets/cd3d5168-0c51-49bc-86f1-deaf8f28a8e5"  style="width: 40%; height: auto;"/>
+<img width="1445" height="647" alt="With_Lead" src="https://github.com/user-attachments/assets/42019f13-144d-4bc1-955c-3f7f8704d998"  style="width: 45%; height: auto;"/>
+</div>
+The last thing the insert into the assembly was the frame. I had to cut the frame multiple times to fit to side, and I made sure to stay within the length that was priced.<br>
+<img width="520" height="750" alt="With_Frame" src="https://github.com/user-attachments/assets/b1c7d190-833f-4238-92b3-738623954495" style="width: 30%; height: auto;"/>
 
 
 
