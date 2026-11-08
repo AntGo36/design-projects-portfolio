@@ -222,7 +222,7 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
 
 ## Section 4: Parametrically Model (CAD) - Antonio Goodson
 
-Before I begin modeling, the most important thing is to gather the necessary components as knowing them and having their dimensions were greatly help everything work together. <br>
+Before I begin modeling, the most important thing is to gather the necessary components as knowing them and having their dimensions greatly help everything work together. <br>
 
 ### Cost table
 
@@ -286,7 +286,7 @@ I first started with the initial sketch with two rectangles 14 the overall lengt
 <img width="961" height="287" alt="CAD_Sketch" src="https://github.com/user-attachments/assets/91ac1d8a-a085-414a-a234-a935cba6e87d"  style="width: 70%; height: auto;"/>
  </div>
 <br>
-After creating the sketch I then went to extrude. When extruding I excluded the thru hole needed and created a extruded cut for the inset diameter.
+After creating the sketch I then went to extrude. When extruding I excluded the thru hole needed and created an extruded cut for the inset diameter.
 <div style="display: flex; gap: 10px; justify-content: center;">
 <img width="966" height="483" alt="Thru_Hole" src="https://github.com/user-attachments/assets/d9040aa2-f337-4d51-8026-1090f8117aee" style="width: 40%; height: auto;"/>
 <img width="643" height="310" alt="Extruded_Cut" src="https://github.com/user-attachments/assets/7749414b-1d5c-4f70-a408-71e5d1d7d7a9" style="width: 42%; height: auto;"/>
@@ -294,19 +294,13 @@ After creating the sketch I then went to extrude. When extruding I excluded the 
 
 ### Assembly 
 
-I downloaded the necessary files and loaded them into a assembly, first starting with the crosshead and the flange nut. After connecting those two, I then flipped it and assigned it to the two lead screws.
+I downloaded the necessary files and loaded them into an assembly, first starting with the crosshead and the flange nut. After connecting those two, I then flipped it and assigned it to the two lead screws.
 <div style="display: flex; gap: 10px; justify-content: center;">
 <img width="566" height="282" alt="Crosshead_and_Nut" src="https://github.com/user-attachments/assets/cd3d5168-0c51-49bc-86f1-deaf8f28a8e5"  style="width: 40%; height: auto;"/>
 <img width="1445" height="647" alt="With_Lead" src="https://github.com/user-attachments/assets/42019f13-144d-4bc1-955c-3f7f8704d998"  style="width: 45%; height: auto;"/>
 </div>
 The last thing the insert into the assembly was the frame. I had to cut the frame multiple times to fit to side, and I made sure to stay within the length that was priced.<br>
 <img width="520" height="750" alt="With_Frame" src="https://github.com/user-attachments/assets/b1c7d190-833f-4238-92b3-738623954495" style="width: 30%; height: auto;"/>
-
-
-
-
-
-
 
 
 <br>
