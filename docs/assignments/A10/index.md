@@ -127,7 +127,7 @@ $$T_{screw} = \frac{1000 \cdot 0.01143}{2} \left[ \frac{0.00254 + \pi (0.15)(0.0
     * Actual thread bearing stress (b)
 
 * **b. Free Body Diagram (FBD):**
-  ![Nut Thread Bearing Stress FBD](https://github.com/user-attachments/assets/ccd71df8-65ec-4d1d-a22a-11ff5f2ec958")
+  ![Nut Thread Bearing Stress FBD](https://github.com/user-attachments/assets/ccd71df8-65ec-4d1d-a22a-11ff5f2ec958)
 
 * **c. Symbolic Solution:**
 
@@ -164,7 +164,7 @@ b=1000N3.1210-4m23.20MPa
     * Minimum required height for strength (hmin,strength)
 
 * **b. Free Body Diagram (FBD):**
-  ![Crosshead Beam Bending FBD and Shear Moment Diagram](https://github.com/user-attachments/assets/807bda83-9fa0-4ed7-99d7-f63fd8b2863c")
+  ![Crosshead Beam Bending FBD and Shear Moment Diagram](https://github.com/user-attachments/assets/807bda83-9fa0-4ed7-99d7-f63fd8b2863c)
 
 * **c. Symbolic Solution:**
 
@@ -194,7 +194,7 @@ hmin,strength=61000.040(69106)0.0147m=14.7mm
     * Minimum required height for stiffness (hmin,stiffness)
 
 * **b. Free Body Diagram (FBD):**
-  ![Crosshead Beam Deflection FBD](https://github.com/user-attachments/assets/4a42493a-9467-48b1-a33c-ebf026d30748")
+  ![Crosshead Beam Deflection FBD](https://github.com/user-attachments/assets/4a42493a-9467-48b1-a33c-ebf026d30748)
 
 * **c. Symbolic Solution:**
 
