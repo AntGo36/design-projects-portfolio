@@ -59,7 +59,7 @@ dmin=4(4)1000N(300106N/m2)0.00412m=4.12mm(0.162in)
     * Maximum rotational speed (RPMmax)
 
 * **b. Free Body Diagram (FBD):**
-    ![Rotational Speed to Velocity Diagram](https://github.com/user-attachments/assets/a7acc801-67f2-4e0e-a50e-7812e7562daa)
+    ![Rotational Speed to Velocity Diagram](https://github.com/user-attachments/assets/5ce4653d-da90-4557-89f7-8bddcde3eadd)
 
 
 * **c. Symbolic Solution:**
@@ -92,7 +92,7 @@ RPMmax=50mm/min2.54mm/rev19.69RPM
     * Required driving torque per screw (Tscrew)
 
 * **b. Free Body Diagram (FBD):**
-  ![Lead Screw Thread Friction and Torque FBD](fbd_leadscrew_torque.JPG)
+  ![Lead Screw Thread Friction and Torque FBD](https://github.com/user-attachments/assets/a7acc801-67f2-4e0e-a50e-7812e7562daa)
 
 * **c. Symbolic Solution:**
 
