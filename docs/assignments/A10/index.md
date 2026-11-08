@@ -215,9 +215,9 @@ hmin,stiffness=312(4.83810-8)0.0400.0244m=24.4mm
 ---
 
 ### Task 3.4 — Multiview Paper Sketch of Crosshead - Antonio Goodson
-
-<img width="5226" height="3113" alt="Sketch" src="https://github.com/user-attachments/assets/94b7b15d-73f4-4ffc-9101-4279405591b0"  style="width: 80%; height: auto;"/>
-
+<div style="display: flex; gap: 10px; justify-content: center;">
+<img width="5588" height="3412" alt="Sketch" src="https://github.com/user-attachments/assets/e4592c97-cf57-4a5f-b771-38fc434f36e2" style="width: 80%; height: auto;"/>
+</div>
 ---
 
 ## Section 4: Parametrically Model (CAD) - Antonio Goodson
@@ -282,7 +282,9 @@ When creating the equations I had to reference the geometry used for the flange 
 </div>
 I first started with the initial sketch with two rectangles 14 the overall length and the second for the distance between features. I made two holes, one for the flange diameter, and the other for the hole needed to hold the flange nut as shown in the drawing.
   <br>
+ <div style="display: flex; gap: 10px; justify-content: center;">
 <img width="961" height="287" alt="CAD_Sketch" src="https://github.com/user-attachments/assets/91ac1d8a-a085-414a-a234-a935cba6e87d"  style="width: 70%; height: auto;"/>
+ </div>
 <br>
 After creating the sketch I then went to extrude. When extruding I excluded the thru hole needed and created a extruded cut for the inset diameter.
 <div style="display: flex; gap: 10px; justify-content: center;">
