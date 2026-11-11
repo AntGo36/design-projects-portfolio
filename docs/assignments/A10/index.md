@@ -42,6 +42,7 @@ $$A_{min} = \frac{\pi d_{min}^2}{4} \implies d_{min} = \sqrt{\frac{4 \cdot N_{sf
 * **d. Numerical Solution:**
 
 
+
 allow=300106Pa4=75106Pa=75MPa
 
 
@@ -345,6 +346,21 @@ This is the drawing of the crosshead after the noted modifications.
 
 ## Lessons Learned
 
-Antonio - This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by converting the needed files by dividing by 0.0254 to convert to inches. For me this assignment took 4 hours.
+### 7. Lessons Learned
+
+Brian - 
+* **Power Screw Design:** I got a solid grasp on using Acme thread formulas to connect driving torque (T) with linear pull force (Fscrew). It was really interesting to see how changing thread geometry (like the 14.5 thread angle and lead angle ) directly shifts torque needs and friction losses.
+* **Stiffness vs. Strength Realities:** A big takeaway for me was realizing that deflection actually drives the crosshead geometry, not yield strength. To keep our beam under the 0.1mm deflection cap, we had to bump the height all the way up to h=24.4mm (25mm)—which is nearly double what was required just to handle the basic stress loads (h=14.7mm).
+* **Bearing Surface Safety:** I ran the thread bearing stress math across the 6 engaged bronze nut threads. Seeing the calculated stress come out to 3.20MPa against an allowable limit of 30MPa gave me a lot of confidence that the threads won't strip or gall under the 2 kN load.
+* **FBD Communication:** I spent time refining how to take a complicated 3D assembly interface and strip it down into a clean, 2D Free Body Diagram focused only on essential forces, reactions, and dimensions.
+* **Time Tracking:** Working through this assignment took me roughly **6.5 hours** total:
+  * Setup & Initial Reading: ~1.0 hr
+  * Hand Calculations & Symbolic Derivations: ~2.5 hrs
+  * FBD Drawing & Iterations: ~1.5 hrs
+  * CAD Assembly & Cost Table: ~1.5 hrs
+
+
+Antonio - 
+This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by converting the needed files by dividing by 0.0254 to convert to inches. For me this assignment took **3 hours** total. I spent most of my time on the assibelly because I had issues cutting the frame. 
 
 <br>
