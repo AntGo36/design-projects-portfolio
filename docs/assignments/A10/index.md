@@ -337,7 +337,7 @@ The crosshead was loaded to 2kN; the max stress shows that peak stresses were co
 ![D2SF](https://github.com/user-attachments/assets/3e37ed68-7b8c-448a-8125-b0f575e8c9e3)
 ![D2Stress](https://github.com/user-attachments/assets/46d4dff2-3888-4555-ba4f-1462b4bd6d09)
 
-To meet the minimum SF of 4, we increased the crosshead thickness to 1.25 in and reevaluated it under the same 2 kN load. The stress decreased to a max of 1.22 * 10^7 N/m^2 around the previous area, as before. The deflection was minimal, with a maximum displacement of 6.60 * 10^-5 mm. Due to the increased thickness, the minimum safety factor increased to 4.5, which therefore meets the criteria specified in the instructions.
+To meet the minimum SF of 4, we increased the crosshead thickness to 1.5 in and reevaluated it under the same 2 kN load. The stress decreased to a max of 1.22 * 10^7 N/m^2 around the previous area, as before. The deflection was minimal, with a maximum displacement of 6.60 * 10^-5 mm. Due to the increased thickness, the minimum safety factor increased to 4.5, which therefore meets the criteria specified in the instructions.
 
 ## Section 6: Crosshead Drawing - Jarek Hernandez Acaba
 
@@ -363,7 +363,7 @@ Brian -
 
 
 Antonio - 
-This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by converting the needed files by dividing by 0.0254 to convert to inches. For me this assignment took **3 hours** total. I spent most of my time on the assembly because I had issues cutting the frame. I found my part in the overall assignment very straight forward and 
+This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by setting new  equivalent veriables and by dividing by 0.0254 to convert to inches without error. For me this assignment took **3 hours** total. I spent most of my time on the assembly because I had issues cutting the frame and one of the parts downloaded incorrectly multiple times. I found my part in the overall assignment very straight forward and I enjoyed making the assembly. My biggest takeaway was collaborating and analyzing other peoples work to complete my own section.
 
 <br>
 
