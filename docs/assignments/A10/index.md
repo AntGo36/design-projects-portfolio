@@ -309,9 +309,42 @@ The last thing to insert into the assembly was the frame. I had to cut the frame
 
 ## Section 5: FEA Analysis - Jarek Hernandez Acaba
 
+I started off by downloading the part made by Antonio and adding fixed points, which are two holes where the lead screws would be. 
+
+![fixed](https://github.com/user-attachments/assets/911258a4-e70a-4c69-b289-3761d5378d25)
+
+Next was the hole where the 2KN load is placed, as stated in the instructions.
+
+![Force](https://github.com/user-attachments/assets/3902a642-8fc0-41e2-bd51-a42feb49c8e0)
+
+![InitialMesh](https://github.com/user-attachments/assets/03b2d0de-5bc1-47c4-a5f0-9c4adcb9d38c)
+
+Once everything needed was established, I conducted an initial FEA on the part with the given parameters found by the equations.
+
+![D1disp](https://github.com/user-attachments/assets/8d44f57a-b83a-4bac-88c4-66c9f043e270)
+![D1SF](https://github.com/user-attachments/assets/81bbf1c9-aa50-40d2-aa52-5a57e76c3690)
+![D1Stress](https://github.com/user-attachments/assets/e733f9db-3164-4f77-9408-5802bd7ac573)
+
+The crosshead was loaded to 2kN; the max stress shows that peak stresses were concentrated around the center region where the hole was. The max was 2.68 * 10^7 N/m^2; this works just fine because it is below the yield strength of the material. The max deflection was 2.58 x 10^-5 mm near the center, showing high rigidity and indicating the math was done correctly. The only outstanding issue was that the current model's SF was 2.1, and according to the rubric, we had a required factor of safety of 4. I decided to go back into the model and modify the thickness, along with adding a chamfer to the center holes and the inner diameter of both of the outer holes
+
+![D2thick](https://github.com/user-attachments/assets/53097c7e-0952-4b1d-8335-319cb1a10d4c)
+![D2Mods](https://github.com/user-attachments/assets/7aa3b86d-05d6-4fcd-a7d4-60b92904ee3a)
+
+![D2disp](https://github.com/user-attachments/assets/f1660f16-32e9-4dcc-8764-8f3672932c17)
+![D2SF](https://github.com/user-attachments/assets/3e37ed68-7b8c-448a-8125-b0f575e8c9e3)
+![D2Stress](https://github.com/user-attachments/assets/46d4dff2-3888-4555-ba4f-1462b4bd6d09)
+
+To meet the minimum SF of 4, we increased the crosshead thickness to 1.25 in and reevaluated it under the same 2 kN load. The stress decreased to a max of 1.22 * 10^7 N/m^2 around the previous area, as before. The deflection was minimal, with a maximum displacement of 6.60 * 10^-5 mm. Due to the increased thickness, the minimum safety factor increased to 4.5, which therefore meets the criteria specified in the instructions.
+
+## Section 6: Crosshead Drawing - Jarek Hernandez Acaba
+
+This is the drawing of the crosshead after the noted modifications. 
+
+![A10Drawing](https://github.com/user-attachments/assets/5a3cabdd-5cb6-4155-8ae4-e12383d16104)
+
 
 ## Lessons Learned
 
-Antonio - This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the 
+Antonio - This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by converting the needed files by dividing by 0.0254 to convert to inches. For me this assignment took 4 hours.
 
 <br>
