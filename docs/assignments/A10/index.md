@@ -245,7 +245,7 @@ Before I begin modeling, the most important thing is to gather the necessary com
       <td>1/2"-10 Lead Screw</td>
       <td>$9.90</td>
       <td>$19.80</td>
-      <td>www.mcmaster.com/98935A823</td>
+      <td><a www.mcmaster.com/98935A823">www.mcmaster.com/98935A823</a></td>
     </tr>
     <tr>
       <td>2</td>
@@ -253,7 +253,7 @@ Before I begin modeling, the most important thing is to gather the necessary com
       <td>Flange Nut</td>
       <td>$125.72 each</td>
       <td>$251.44</td>
-      <td>www.mcmaster.com/95120A111/</td>
+      <td><a href="www.mcmaster.com/95120A111/">www.mcmaster.com/95120A111/</a></td>
     </tr>
     <tr>
       <td>3</td>
@@ -261,7 +261,9 @@ Before I begin modeling, the most important thing is to gather the necessary com
       <td>T-Slot Framing System</td>
       <td>$245.87</td>
       <td>$245.87</td>
-      <td>www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48</td>
+      <td><a href="www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48">www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48</a></td>
+
+<br>
     </tr>
     <tfoot>
     <tr>
