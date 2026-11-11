@@ -59,7 +59,7 @@ dmin=4(4)1000N(300106N/m2)0.00412m=4.12mm(0.162in)
     * Maximum rotational speed (RPMmax)
 
 * **b. Free Body Diagram (FBD):**
-    ![Rotational Speed to Velocity Diagram](https://github.com/user-attachments/assets/5ce4653d-da90-4557-89f7-8bddcde3eadd)
+    ![Rotational Speed to Velocity Diagram](https://github.com/user-attachments/assets/082ba2c0-5860-4af4-b13d-abce89bf7548)
 
 
 * **c. Symbolic Solution:**
@@ -92,7 +92,7 @@ RPMmax=50mm/min2.54mm/rev19.69RPM
     * Required driving torque per screw (Tscrew)
 
 * **b. Free Body Diagram (FBD):**
-  ![Lead Screw Thread Friction and Torque FBD](https://github.com/user-attachments/assets/a7acc801-67f2-4e0e-a50e-7812e7562daa)
+  ![Lead Screw Thread Friction and Torque FBD](https://github.com/user-attachments/assets/0f2b1477-9dba-4c22-bb82-0c0e17f68696)
 
 * **c. Symbolic Solution:**
 
@@ -164,7 +164,7 @@ b=1000N3.1210-4m23.20MPa
     * Minimum required height for strength (hmin,strength)
 
 * **b. Free Body Diagram (FBD):**
-  ![Crosshead Beam Bending FBD and Shear Moment Diagram](https://github.com/user-attachments/assets/807bda83-9fa0-4ed7-99d7-f63fd8b2863c)
+  ![Crosshead Beam Bending FBD and Shear Moment Diagram](https://github.com/user-attachments/assets/464caf93-cdd7-41ae-b4c5-46bc2e8ddeb5)
 
 * **c. Symbolic Solution:**
 
@@ -194,7 +194,7 @@ hmin,strength=61000.040(69106)0.0147m=14.7mm
     * Minimum required height for stiffness (hmin,stiffness)
 
 * **b. Free Body Diagram (FBD):**
-  ![Crosshead Beam Deflection FBD](https://github.com/user-attachments/assets/4a42493a-9467-48b1-a33c-ebf026d30748)
+  ![Crosshead Beam Deflection FBD](https://github.com/user-attachments/assets/632e7437-6012-4fc2-8ac8-0ec27525b7b7)
 
 * **c. Symbolic Solution:**
 
@@ -310,4 +310,8 @@ The last thing to insert into the assembly was the frame. I had to cut the frame
 ## Section 5: FEA Analysis - Jarek Hernandez Acaba
 
 
+## Lessons Learned
 
+Antonio - This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the 
+
+<br>
