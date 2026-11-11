@@ -363,7 +363,7 @@ Brian -
 
 
 Antonio - 
-This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by converting the needed files by dividing by 0.0254 to convert to inches. For me this assignment took **3 hours** total. I spent most of my time on the assibelly because I had issues cutting the frame. 
+This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by converting the needed files by dividing by 0.0254 to convert to inches. For me this assignment took **3 hours** total. I spent most of my time on the assembly because I had issues cutting the frame. I found my part in the overall assignment very straight forward and 
 
 <br>
 
