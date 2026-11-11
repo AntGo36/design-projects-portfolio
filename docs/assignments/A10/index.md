@@ -362,7 +362,8 @@ Brian -
   * CAD Assembly & Cost Table: ~1.5 hrs
 
 
-Antonio - 
+**Antonio -**
+<br>
 This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by setting new  equivalent veriables and by dividing by 0.0254 to convert to inches without error. For me this assignment took **3 hours** total. I spent most of my time on the assembly because I had issues cutting the frame and one of the parts downloaded incorrectly multiple times. I found my part in the overall assignment very straight forward and I enjoyed making the assembly. My biggest takeaway was collaborating and analyzing other peoples work to complete my own section.
 
 <br>
