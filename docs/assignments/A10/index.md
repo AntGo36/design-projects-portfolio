@@ -366,3 +366,13 @@ Antonio -
 This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts where in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by converting the needed files by dividing by 0.0254 to convert to inches. For me this assignment took **3 hours** total. I spent most of my time on the assibelly because I had issues cutting the frame. 
 
 <br>
+
+## CAD FILES - Antonio Goodson & Jarek Hernandez
+
+[Rev1Part](Crosshead.SLDPRT)
+
+[Rev1DRW](Crosshead.SLDDRW)
+
+[Rev2Part](MODIFIEDCrosshead.SLDPRT)
+
+[Rev2DRW](MODIFIEDCrosshead.SLDDRW)
