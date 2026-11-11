@@ -350,25 +350,23 @@ This is the drawing of the crosshead after the noted modifications.
 
 ### 7. Lessons Learned
 
-**Brian -** 
+**Brian - ** 
+
 * **Power Screw Design:** I got a solid grasp on using Acme thread formulas to connect driving torque (T) with linear pull force (Fscrew). It was really interesting to see how changing thread geometry (like the 14.5 thread angle and lead angle ) directly shifts torque needs and friction losses.
 * **Stiffness vs. Strength Realities:** A big takeaway for me was realizing that deflection actually drives the crosshead geometry, not yield strength. To keep our beam under the 0.1mm deflection cap, we had to bump the height all the way up to h=24.4mm (25mm)—which is nearly double what was required just to handle the basic stress loads (h=14.7mm).
 * **Bearing Surface Safety:** I ran the thread bearing stress math across the 6 engaged bronze nut threads. Seeing the calculated stress come out to 3.20MPa against an allowable limit of 30MPa gave me a lot of confidence that the threads won't strip or gall under the 2 kN load.
 * **FBD Communication:** I spent time refining how to take a complicated 3D assembly interface and strip it down into a clean, 2D Free Body Diagram focused only on essential forces, reactions, and dimensions.
-* **Time Tracking:** Working through this assignment took me roughly **6.5 hours** total:
+* **Time Tracking:** Working through this assignment took me roughly **5 hours** total:
   * Setup & Initial Reading: ~1.0 hr
   * Hand Calculations & Symbolic Derivations: ~2.5 hrs
   * FBD Drawing & Iterations: ~1.5 hrs
-  * CAD Assembly & Cost Table: ~1.5 hrs
 
 
 **Antonio -**
 <br>
-This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts were in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by setting new  equivalent variables and by dividing by 0.0254 to convert to inches without error. For me this assignment took **3 hours** total. I spent most of my time on the assembly because I had issues cutting the frame and one of the parts downloaded incorrectly multiple times. I found my part in the overall assignment very straightforward and I enjoyed making the assembly. My biggest takeaway was collaborating and analyzing other peoples work to complete my own section.
+This assignment helped reinforce things I learned and applied in previous ones. Some things I encountered were that the calculations worked best in metric however the downloaded parts were in Imperial measurement. This was an issue because due to some error within Solidworks there was an issue with unit conversion, this was fixed by setting new equivalent variables and by dividing by 0.0254 to convert to inches without error. For me this assignment took **3 hours** total. I spent most of my time on the assembly because I had issues cutting the frame and one of the parts downloaded incorrectly multiple times. I found my part in the overall assignment very straightforward and I enjoyed making the assembly. My biggest takeaway was collaborating and analyzing other peoples work to complete my own section.
 
-<br>
-
-**Jarek -**
+**Jarek - ** 
 <br>
 For my part it was more a review from A7 regarding the FEA of a bracket and how to analyze a part using different mesh configurations along with an actual understanding of what is going on in the different displays such as von Mises stress, deflection, and safety factor. While SolidWork exaggerates the bends for the sense of visualization it provides a clear view of what exactly is going on with the part when you apply a load. Which is more beneficial to do in a simulation looking at it from a cost perspective. The biggest factor that stuck was that the initial model had a FOS of 2.1 and quickly thought of a way to increase this number when looking at the FOS formula. That's why I decided to increase the thickness, therefore increasing the area. I spent a total of 3 hours in between conducting FEA’s and modifying the part.
 
