@@ -8,9 +8,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-markdown_extensions:
-  - pymdownx.arithmatex:
-      generic: true
 
 nav:
   - Home: index.md
