@@ -256,63 +256,56 @@ The first step of order I took was to insert the coupler and motor. The coupler 
 
 Now that I have a motor and coupler attached, I needed to create a mount for the motor so the coupler isn't being interfered. With the first thing I did was create a necessary equations needed for the amount to do this I looked at the dimensions of the coupler and motor to fit the Nema 23 standerd.
 
-
 <p align="center">
-  <img src="Mount_Eq.png" alt="Mount_Eq" width="44%" />
+  <img src="Mount_Eq.png" alt="Mount_Eq" width="48%" />
 </p>
 
-
-
+What the equation to find Ivan create a initial sketch for them parts connected to the motor with this I matched the drawing in the motor listing. What the equation to find Ivan create a initial sketch for them parts connected to the motor with this I matched the dimensions listed in the motor listing, I also made sure to create the whole that the coupler would sit in. 
 
 <p align="center">
-  <img src="Mount_Sketch.png" alt="Mount_Sketch" width="30%" />
+  <img src="Mount_Sketch.png" alt="Mount_Sketch" width="38%" />
 </p>
 
-
-
+After creating the sketch, I went to extrude the necessary regions by the calculated thickness of .25 in, and exclude the coupler hole and M5 screw holes after this I made the inset worth the motor would sit in.
 
 <p align="center">
   <img src="Couple_Hole.png" alt="Couple_Hole" width="44%" />
   <img src="Motor_Inset.png" alt="Motor_Inset" width="41%" />
 </p>
 
-
-
+ The next part was to extrude the stem. This was extruded by the height of the coupler with walls of the same thickness as the base.
 
 <p align="center">
   <img src="Couple_Lenght.png" alt="Couple_Lenght" width="38%" />
 </p>
 
-
-
+Last step of the motor mounts was to create the part where it mounts to the frame for this I used the width of the frame which was 0.03 m and made it the length of 3 inches I once again used M5 screw holes and filled in the coupler hole with the exception of a hole needed for the lead screw. After doing this, I cleaned up the model.
 
 <p align="center">
   <img src="Frame_connection.png" alt="Frame_connection" width="43%" />
   <img src="Cleanup.png" alt="Cleanup" width="37%" />
 </p>
 
-
-
+With the mount completed I then added it to the assembly, while including the M5 screws needed, the ones I chose had a length of 12 mm. While doing this, I decided to use the circular pattern to reduce work, which turned out to work perfectly.
 
 <p align="center">
-  <img src="Mount_attached.png" alt="Mount_attached" width="38%" />
+  <img src="Mount_attached.png" alt="Mount_attached" width="43%" />
 </p>
 
-
+With the amount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it help this list of equations shared similarities with fee motor mount as a connects to the same type of frame. I made sure to go by the book with a R3 clearance for a diameter of 0.5 inches.
 
 
 <p align="center">
   <img src="Bearing_Eq.png" alt="Bearing_Eq" width="48%" />
 </p>
 
-
-
+The steps are the same as the motor mount where I create a sketch to map things out.
 
 <p align="center">
   <img src="Bearing_Sketch.png" alt="Bearing_Sketch" width="40%" />
 </p>
 
-
+I extrude the calculated thickness and a certain length to align the lead screw and then clean up the model.
 
 <p align="center">
   <img src="Bearing_Shape.png" alt="Bearing_Shape" width="40%" />
