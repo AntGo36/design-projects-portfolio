@@ -304,26 +304,26 @@ With the Mmount completed, I sent the bearing to hold the lead screw in place at
   <img src="Bearing_Eq.png" alt="Bearing_Eq" width="56%" />
 </p>
 
-The steps are the same as the motor mount where I create a sketch to map things out. 
+The steps are the same as the motor mount where I create a sketch to map things out. The sketch is almost identical to the side of the motor mount where it connects to the frame.
 
 <p align="center">
   <img src="Bearing_Sketch.png" alt="Bearing_Sketch" width="50%" />
 </p>
 
-I extrude the calculated thickness and a certain length to align the lead screw and then clean up the model.
+I extrude the calculated thickness and a certain length to align the lead screw and then clean up the model. This is important as it prevents the lead screw from jumping out of its necessary place, it also prevents the crosshead from rotating.
 
 <p align="center">
   <img src="Bearing_Shape.png" alt="Bearing_Shape" width="40%" />
   <img src="Cleanup2.png" alt="Cleanup2" width="43%" />
 </p>
 
-
+One of the first steps I took in the assembly was to create a hole for the lead screw as seen in the following image. This is important as a private provides a space where the lead screw can actually sit like in the top frame where it goes through and the bottom frame where it has room two move. I've been inserted the lead screw, bearing and aligned it.
 <p align="center">
   <img src="Clear_Hole.png" alt="Clear_Hole" width="44%" />
   <img src="Bearing_Fitted.png" alt="Bearing_Fitted" width="39%" />
 </p>
 
-
+After this, I added the necessary bolts and with these steps done, I now have a completed assembly.
 
 <p align="center">
   <img src="Full_Assembly.png" alt="Full_Assembly" width="35%" />
