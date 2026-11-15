@@ -317,16 +317,14 @@ I extrude the calculated thickness and a certain length to align the lead screw 
   <img src="Cleanup2.png" alt="Cleanup2" width="43%" />
 </p>
 
-### Full Assembly
+### Assembly
 
-One of the first steps I took in the assembly was to create a hole for the lead screw as seen in the following image. This is important as a private provides a space where the lead screw can actually sit like in the top frame where it goes through and the bottom frame where it has room two move. I've been inserted the lead screw, bearing and aligned it.
+One of the first steps I took in the assembly was to create a hole for the lead screw as seen in the following image. This is important as a private provides a space where the lead screw can actually sit like in the top frame where it goes through and the bottom frame where it has room two move. I've been inserted the lead screw, bearing and aligned it. After this, I added the necessary bolts to complete the assembly.
 <p align="center">
   <img src="Clear_Hole.png" alt="Clear_Hole" width="44%" />
   <img src="Bearing_Fitted.png" alt="Bearing_Fitted" width="39%" />
 </p>
-
-After this, I added the necessary bolts and with these steps done, I now have a completed assembly.
-
+<br>
 <p align="center">
   <img src="Full_Assembly.png" alt="Full_Assembly" width="35%" />
 </p>
