@@ -324,7 +324,6 @@ One of the first steps I took in the assembly was to create a hole for the lead 
   <img src="Clear_Hole.png" alt="Clear_Hole" width="44%" />
   <img src="Bearing_Fitted.png" alt="Bearing_Fitted" width="39%" />
 </p>
-<br>
 <p align="center">
   <img src="Full_Assembly.png" alt="Full_Assembly" width="35%" />
 </p>
