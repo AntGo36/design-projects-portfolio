@@ -301,13 +301,13 @@ With the mount completed I then added it to the assembly, while including the M5
 With the Mmount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it help this list of equations shared similarities with fee motor mount as a connects to the same type of frame. I made sure to go by the book with a R3 clearance for a diameter of 0.5 inches.
 
 <p align="center">
-  <img src="Bearing_Eq.png" alt="Bearing_Eq" width="48%" />
+  <img src="Bearing_Eq.png" alt="Bearing_Eq" width="56%" />
 </p>
 
 The steps are the same as the motor mount where I create a sketch to map things out. 
 
 <p align="center">
-  <img src="Bearing_Sketch.png" alt="Bearing_Sketch" width="40%" />
+  <img src="Bearing_Sketch.png" alt="Bearing_Sketch" width="50%" />
 </p>
 
 I extrude the calculated thickness and a certain length to align the lead screw and then clean up the model.
