@@ -248,7 +248,7 @@ Nsf,buckling=277,450N1000N=277.54
 
 ### Coupler Allignment
 
-The first step of order I took was to insert the coupler and motor. The coupler that I chose was machinable on one side so I change the inner diameter of that side to be 8 mm to fit the motor shaft. Now the coupler has one side being half an inch and the other 8 mm I was able to connect the motor to the lead screw.
+The first step of order I took was to insert the coupler and motor. The coupler that I chose was machinable on one side so I changed the inner diameter of that side to be 8 mm to fit the motor shaft. Now the coupler has one side being half an inch and the other 8 mm I was able to connect the motor to the lead screw.
 
 <p align="center">
   <img src="Couple.png" alt="Couple" width="42%" />
@@ -258,13 +258,13 @@ The first step of order I took was to insert the coupler and motor. The coupler 
 
 ### Motor Mount
 
-Now that I have a motor and coupler attached, I needed to create a mount for the motor so the coupler isn't being interfered. With the first thing I did was create a necessary equations needed for the amount to do this I looked at the dimensions of the coupler and motor to fit the Nema 23 standerd.
+Now that I have a motor and coupler attached, I needed to create a mount for the motor so the coupler isn't being interfered with and the motor sits still. The first thing I did was create the necessary equations needed for the amount to do this. I looked at the dimensions of the coupler and motor to fit the Nema 23 sizing.
 
 <p align="center">
   <img src="Mount_Eq.png" alt="Mount_Eq" width="48%" />
 </p>
 
-What the equation to find Ivan create a initial sketch for them parts connected to the motor with this I matched the drawing in the motor listing. What the equation to find Ivan create a initial sketch for them parts connected to the motor with this I matched the dimensions listed in the motor listing, I also made sure to create the whole that the coupler would sit in. 
+With the equations I then create an initial sketch for the parts connected to the motor with this I matched the drawing in the motor listing. I also made sure to create the whole that the coupler would sit in. 
 
 <p align="center">
   <img src="Mount_Sketch.png" alt="Mount_Sketch" width="38%" />
@@ -298,7 +298,7 @@ With the mount completed I then added it to the assembly, while including the M5
 
 ### Lead Screw Bearing
 
-With the Mmount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it help this list of equations shared similarities with fee motor mount as a connects to the same type of frame. I made sure to go by the book with a RC3 clearance for a diameter of 0.5 inches.
+With the mount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it helps this list of equations share similarities with the motor mount as it connects to the same type of frame. I made sure to go by the book with a RC3 clearance for a diameter of 0.5 inches.
 
 <p align="center">
   <img src="Bearing_Eq.png" alt="Bearing_Eq" width="56%" />
@@ -319,7 +319,7 @@ I extrude the calculated thickness and a certain length to align the lead screw 
 
 ### Assembly
 
-One of the first steps I took in the assembly was to create a hole for the lead screw as seen in the following image. This is important as a private provides a space where the lead screw can actually sit like in the top frame where it goes through and the bottom frame where it has room two move. I've been inserted the lead screw, bearing and aligned it. After this, I added the necessary bolts to complete the assembly.
+One of the first steps I took in the assembly was to create a hole for the lead screw as seen in the following image. This is important as a private provides a space where the lead screw can actually sit like in the top frame where it goes through and the bottom frame where it has room to move. I then inserted the lead screw bearing and aligned it. After this, I added the necessary bolts to complete the assembly.
 <p align="center">
   <img src="Clear_Hole.png" alt="Clear_Hole" width="44%" />
   <img src="Bearing_Fitted.png" alt="Bearing_Fitted" width="39%" />
