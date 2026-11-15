@@ -247,12 +247,14 @@ Nsf,buckling=277,450N1000N=277.54
 ## Section 7: Parametrically Model (CAD) - Antonio Goodson
 
 
+The first step of order I took was to insert the coupler and motor. The coupler that I chose was machinable on one side so I change the inner diameter of that side to be 8 mm to fit the motor shaft. Now the coupler has one side being half an inch and the other 8 mm I was able to connect the motor to the lead screw.
+
 <p align="center">
   <img src="Couple.png" alt="Couple" width="42%" />
   <img src="Motors.png" alt="Motors" width="41%" />
 </p>
 
-
+Now that I have a motor and coupler attached, I needed to create a mount for the motor so the coupler isn't being interfered. With the first thing I did was create a necessary equations needed for the amount to do this I looked at the dimensions of the coupler and motor to fit the Nema 23 standerd.
 
 
 <p align="center">
