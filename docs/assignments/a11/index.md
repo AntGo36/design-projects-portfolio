@@ -283,7 +283,7 @@ After creating the sketch, I went to extrude the necessary regions by the calcul
   <img src="Couple_Lenght.png" alt="Couple_Lenght" width="38%" />
 </p>
 
-Last step of the motor mounts was to create the part where it mounts to the frame for this I used the width of the frame which was 0.03 m and made it the length of 3 inches I once again used M5 screw holes and filled in the coupler hole with the exception of a hole needed for the lead screw. After doing this, I cleaned up the model.
+Last step of the motor mounts was to create the part where it mounts to the frame for this I used the width of the frame which was 0.03 m and made it the length of 3 inches I once again used M5 screw holes and filled in the coupler hole with the exception of a hole needed for the lead screw for this hole I followed the book for a RC3 clearance hole. After doing this, I cleaned up the model.
 
 <p align="center">
   <img src="Frame_connection.png" alt="Frame_connection" width="43%" />
@@ -298,7 +298,7 @@ With the mount completed I then added it to the assembly, while including the M5
 
 ### Lead Screw Bearing
 
-With the Mmount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it help this list of equations shared similarities with fee motor mount as a connects to the same type of frame. I made sure to go by the book with a R3 clearance for a diameter of 0.5 inches.
+With the Mmount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it help this list of equations shared similarities with fee motor mount as a connects to the same type of frame. I made sure to go by the book with a RC3 clearance for a diameter of 0.5 inches.
 
 <p align="center">
   <img src="Bearing_Eq.png" alt="Bearing_Eq" width="56%" />
@@ -316,6 +316,8 @@ I extrude the calculated thickness and a certain length to align the lead screw 
   <img src="Bearing_Shape.png" alt="Bearing_Shape" width="40%" />
   <img src="Cleanup2.png" alt="Cleanup2" width="43%" />
 </p>
+
+### Full Assembly
 
 One of the first steps I took in the assembly was to create a hole for the lead screw as seen in the following image. This is important as a private provides a space where the lead screw can actually sit like in the top frame where it goes through and the bottom frame where it has room two move. I've been inserted the lead screw, bearing and aligned it.
 <p align="center">
