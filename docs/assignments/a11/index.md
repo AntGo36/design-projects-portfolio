@@ -247,48 +247,87 @@ Nsf,buckling=277,450N1000N=277.54
 ## Section 7: Parametrically Model (CAD) - Antonio Goodson
 
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Couple.png" alt="Couple" style="width: 42%; height: auto;"/>
-  <img src="Motors.png" alt="Motors" style="width: 41%; height: auto;"/>
-</div>
+<p align="center">
+  <img src="Couple.png" alt="Couple" width="42%" />
+  <img src="Motors.png" alt="Motors" width="41%" />
+</p>
 
 
 
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Mount_Eq.png" alt="Mount_Eq" style="width: 44%; height: auto;"/>
-</div>
+<p align="center">
+  <img src="Mount_Eq.png" alt="Mount_Eq" width="44%" />
+</p>
 
 
 
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Mount_Sketch.png" alt="Mount_Sketch" style="width: 30%; height: auto;"/>
-</div>
-
-
-
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Couple_Hole.png" alt="Couple_Hole" style="width: 44%; height: auto;"/>
-  <img src="Motor_Inset.png" alt="Motor_Inset" style="width: 41%; height: auto;"/>
-</div>
+<p align="center">
+  <img src="Mount_Sketch.png" alt="Mount_Sketch" width="30%" />
+</p>
 
 
 
 
-
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Couple_Lenght.png" alt="Couple_Lenght" style="width: 38%; height: auto;"/>
-</div>
-
-
+<p align="center">
+  <img src="Couple_Hole.png" alt="Couple_Hole" width="44%" />
+  <img src="Motor_Inset.png" alt="Motor_Inset" width="41%" />
+</p>
 
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Frame_connection.png" alt="Frame_connection" style="width: 44%; height: auto;"/>
-  <img src="Cleanup.png" alt="Cleanup" style="width: 38%; height: auto;"/>
-</div>
 
+
+<p align="center">
+  <img src="Couple_Lenght.png" alt="Couple_Lenght" width="38%" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="Frame_connection.png" alt="Frame_connection" width="43%" />
+  <img src="Cleanup.png" alt="Cleanup" width="37%" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="Mount_attached.png" alt="Mount_attached" width="38%" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="Bearing_Eq.png" alt="Bearing_Eq" width="48%" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="Bearing_Sketch.png" alt="Bearing_Sketch" width="40%" />
+</p>
+
+
+
+<p align="center">
+  <img src="Bearing_Shape.png" alt="Bearing_Shape" width="40%" />
+  <img src="Cleanup2.png" alt="Cleanup2" width="43%" />
+</p>
+
+
+<p align="center">
+  <img src="Clear_Hole.png" alt="Clear_Hole" width="44%" />
+  <img src="Bearing_Fitted.png" alt="Bearing_Fitted" width="39%" />
+</p>
+
+
+
+<p align="center">
+  <img src="Full_Assembly.png" alt="Full_Assembly" width="35%" />
+</p>
 
 
 
