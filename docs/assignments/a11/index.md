@@ -329,9 +329,6 @@ One of the first steps I took in the assembly was to create a hole for the lead 
 </p>
 
 
-
-
-
 ## Section 8: Top Frame FEA Verification - Jarek Hernandez Acaba
 
 ## Section 9: Vertical Standoff FEA Verification - Jarek Hernandez Acaba
