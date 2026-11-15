@@ -246,6 +246,7 @@ Nsf,buckling=277,450N1000N=277.54
 
 ## Section 7: Parametrically Model (CAD) - Antonio Goodson
 
+### Coupler Allignment
 
 The first step of order I took was to insert the coupler and motor. The coupler that I chose was machinable on one side so I change the inner diameter of that side to be 8 mm to fit the motor shaft. Now the coupler has one side being half an inch and the other 8 mm I was able to connect the motor to the lead screw.
 
@@ -253,6 +254,9 @@ The first step of order I took was to insert the coupler and motor. The coupler 
   <img src="Couple.png" alt="Couple" width="42%" />
   <img src="Motors.png" alt="Motors" width="41%" />
 </p>
+
+
+### Motor Mount
 
 Now that I have a motor and coupler attached, I needed to create a mount for the motor so the coupler isn't being interfered. With the first thing I did was create a necessary equations needed for the amount to do this I looked at the dimensions of the coupler and motor to fit the Nema 23 standerd.
 
@@ -292,14 +296,15 @@ With the mount completed I then added it to the assembly, while including the M5
   <img src="Mount_attached.png" alt="Mount_attached" width="43%" />
 </p>
 
-With the amount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it help this list of equations shared similarities with fee motor mount as a connects to the same type of frame. I made sure to go by the book with a R3 clearance for a diameter of 0.5 inches.
+### Lead Screw Bearing
 
+With the Mmount completed, I sent the bearing to hold the lead screw in place at the bottom of the frame doing this. I created a list of equations so it help this list of equations shared similarities with fee motor mount as a connects to the same type of frame. I made sure to go by the book with a R3 clearance for a diameter of 0.5 inches.
 
 <p align="center">
   <img src="Bearing_Eq.png" alt="Bearing_Eq" width="48%" />
 </p>
 
-The steps are the same as the motor mount where I create a sketch to map things out.
+The steps are the same as the motor mount where I create a sketch to map things out. 
 
 <p align="center">
   <img src="Bearing_Sketch.png" alt="Bearing_Sketch" width="40%" />
