@@ -247,7 +247,8 @@ Nsf,buckling=277,450N1000N=277.54
 ## Section 7: Parametrically Model (CAD) - Antonio Goodson
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Mount_Sketch.png" alt="Mount_Sketch" style="width: 80%; height: auto;"/>
+  <img src="Mount_Sketch.png" alt="Mount_Sketch" style="width: 30%; height: auto;"/>
+  <img src="Couple_Hole.png" alt="Couple_Hole" style="width: 44%; height: auto;"/>
 </div>
 
 
