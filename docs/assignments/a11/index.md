@@ -246,6 +246,13 @@ Nsf,buckling=277,450N1000N=277.54
 
 ## Section 7: Parametrically Model (CAD) - Antonio Goodson
 
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="Mount_Sketch.png" alt="Mount_Sketch">
+</div>
+
+
+
+
 ## Section 8: Top Frame FEA Verification - Jarek Hernandez Acaba
 
 ## Section 9: Vertical Standoff FEA Verification - Jarek Hernandez Acaba
