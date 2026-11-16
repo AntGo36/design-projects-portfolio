@@ -1,3 +1,6 @@
+
+
+
 # A11 – Motor Selection
 
 *Team Section Contributions:*
@@ -25,7 +28,7 @@ Develop the motorized drive and structural integration for a 2 kN dual-leadscrew
     - Maximum motor speed (RPMmax)
 
 - *b. Free Body Diagram (FBD):*
-  *(Insert image: `![Rotational Speed Diagram](fbd_a11_motor_speed.JPG)`)*
+  *![Rotational Speed Diagram](fbd_a11_motor_speed.JPG)*
 
 - *c. Symbolic Solution:*
  
@@ -54,7 +57,7 @@ RPMmax=50mm/min2.54mm/rev=19.69RPM
     - Mechanical power required at max speed (Pmax)
 
 - *b. Free Body Diagram (FBD):*
-  *(Insert image: `![Motor Torque FBD](fbd_a11_motor_torque.JPG)`)*
+  *![Motor Torque FBD](fbd_a11_motor_torque.JPG)*
 
 - *c. Symbolic Solution:*
  
@@ -73,7 +76,7 @@ Pmax=Tmotormax=Tmotor2RPMmax60
 
 - *Selected Component:* High-Torque Planetary Geared Stepper / DC Gearmotor (24V DC, 100:1 Planetary Gearbox, rated continuous torque $\ge 2.0\text{ N}\cdot\text{m}$, speed range 0–30RPM, 8mm D-shaped output shaft, NEMA 23 / 4-bolt flange).
 - *Verification:* At the maximum crosshead speed of 50mm/min (19.69RPM), the required torque of $1.45\text{ N}\cdot\text{m}$ sits safely inside the continuous duty envelope of the selected gearmotor.
-- *(Insert annotated Speed-Torque Curve plot here: `![Speed Torque Curve](speed_torque_curve.png)`)*
+- *(Insert annotated Speed-Torque Curve plot here: ![Speed Torque Curve](speed_torque_curve.png)*
 
 ---
 
@@ -95,7 +98,7 @@ Pmax=Tmotormax=Tmotor2RPMmax60
     - Minimum required bracket thickness (tmin)
 
 - *b. Free Body Diagram (FBD):*
-  *(Insert image: `![Motor Mount Bearing Stress FBD](fbd_a11_mount_bearing.JPG)`)*
+  *![Motor Mount Bearing Stress FBD](fbd_a11_mount_bearing.JPG)*
 
 - *c. Symbolic Solution:*
  
@@ -130,25 +133,26 @@ tmin=10.87N4(0.005m)(276106Pa)=3.1510-5m=0.0315mm
   - *Unknowns:*
     - Allowable torsional shear stress (allow)
     - Coupler inner diameter (di)
-    - Minimum outer diameter (do,min) and minimum wall thickness (tmin)
-
-- *b. Free Body Diagram (FBD):*
-  *(Insert image: `![Coupler Torsional Stress FBD](fbd_a11_coupler_torsion.JPG)`)*
-
+    - Minimum outer diameter (do,) and minimum wall thickness (t)
+- *b. Free Body Diagram (FBD):* ![Coupler Torsional Stress FBD](fbd_a11_coupler_torsion.JPG)
 - *c. Symbolic Solution:*
-  allow=SsyNsf=0.577SyNsf
-  J=32(do4-di4)
-  max=Tmotor(do/2)J=16Tmotordo(do4-di4)allow
-  tcoupler=do-di2
-
+ 
+allow=SsyNsf=0.577SyNsf
+ 
+J=32do4-di4
+ 
+=Tmotor(do/2)J=16Tmotordodo4-di4allow
+ 
+tcoupler=do-di2
 - *d. Numerical Solution:*
-  allow=159.25MPa4=39.81MPa(39.81106Pa)
+ 
+allow=159.25MPa4=39.81MPa (39.81106Pa)
   Setting di=8.0mm=0.008m and solving numerically for do:
-  $\frac{16 (1.45\text{ N}\cdot\text{m}) d_o}{\pi (d_o^4 - 0.008^4)} = 39.81 \times 10^6\text{ Pa} \implies d_{o,min} = 8.69\text{ mm}$
-  tmin=8.69mm-8.00mm2=0.346mm
-- *Selected Component:* A standard rigid shaft coupling with **8mm D-bore / set-screw clamping (di=8.0mm)** and **20mm outer diameter (do=20.0mm, wall thickness t=6.0mm)** is selected to engage the motor's D-shaft flat without slip or torsional windup.
-  actual=16(1.45)(0.020)(0.0204-0.0084)=0.947MPa39.81MPa(Nsf=168)
----
+  $$\frac{16 (1.45\text{ N}\cdot\text{m}) d_o}{\pi\left(d_o^4 - 0.008^4\right)} = 39.81 \times 10^6\text{ Pa} \implies d_{o,\min} = 8.69\text{ mm}$$
+ 
+t=8.69mm-8.00mm2=0.346mm
+- *Selected Component:* A standard rigid shaft coupling with 8mm D-bore / set-screw clamping (di=8.0mm) and 1.875in outer diameter (do=47.63mm, wall thickness t=19.81mm) is selected to engage the motor's D-shaft flat
+
 
 ## Section 4: Frame Twisting Analysis & Corner Bracket Selection - Brian Jones
 
@@ -168,7 +172,7 @@ tmin=10.87N4(0.005m)(276106Pa)=3.1510-5m=0.0315mm
     - Required bracket load rating
 
 - *b. Free Body Diagram (FBD):*
-  *(Insert image: `![Top Frame Twisting FBD](fbd_a11_frame_twist.JPG)`)*
+  *![Top Frame Twisting FBD](fbd_a11_frame_twist.JPG)*
 
 - *c. Symbolic Solution:*
   $$\sum F_z = 0 \implies R_{z,left} + R_{z,right} - 2 F_{screw} = 0 \implies R_z = F_{screw}$$
@@ -202,7 +206,7 @@ Rz=1000N(designloadwithNsf=4:4000N)
     - Buckling Safety Factor (Nsf,buckling)
 
 - *b. Free Body Diagram (FBD):*
-  *(Insert image: `![Vertical Column Buckling FBD](fbd_a11_column_buckling.JPG)`)*
+  *![Vertical Column Buckling FBD](fbd_a11_column_buckling.JPG)*
 
 - *c. Symbolic Solution:*
  
@@ -233,7 +237,7 @@ Nsf,buckling=277,450N1000N=277.54
     - Resulting diametral clearance range and M5 clearance hole dimensions
 
 - *b. Free Body Diagram (FBD):*
-  *(Insert image: `![Floating Bearing Fit Diagram](fbd_a11_floating_bearing.JPG)`)*
+  *![Floating Bearing Fit Diagram](fbd_a11_floating_bearing.JPG)*
 
 - *c. Symbolic & Tolerance Limits Solution:*
   - **Bearing Bore (Hole, H7):** $+0.000\text{ mm} / +0.015\text{ mm} \implies \mathbf{8.000\text{ mm}\text{ to }8.015\text{ mm}}$
@@ -459,4 +463,3 @@ One of the first steps I took in the assembly was to create a hole for the lead 
 ## Lessons Learned
 
 ## CAD FILES - Antonio Goodson & Jarek Hernandez
-
