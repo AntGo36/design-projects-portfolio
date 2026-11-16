@@ -506,19 +506,19 @@ Results from FEAs were well beyond the proposed limits, with FS ranging from 25 
     </tr>
     <tr>
       <td>Jarek</td>
-      <td>---</td>
+      <td>6</td>
       <td>$35</td>
-      <td>---</td>
+      <td>$210</td>
     </tr>
     <tfoot>
     <tr>
       <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
-      Pay Cost: ----
+      Pay Cost: $595
       </td>
     </tr>
     <tr>
       <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
-        Project Cost: ----
+        Project Cost: $1,264.39
     </tr>
   </tfoot>
   </body>
@@ -527,4 +527,23 @@ Results from FEAs were well beyond the proposed limits, with FS ranging from 25 
 
 ## Lessons Learned
 
+### - Brian Jones
+
+- *Time Spent:* 4.5 hours
+- *Key Takeaways:*
+  - I learned how to calculate motor speed (0.394–19.69RPM) and torque ($1.45\text{ N}\cdot\text{m}$) from crosshead velocity (1–50mm/min), screw lead (2.54mm/rev), and friction losses (=0.15, mech=0.90)
+  - I learned that theoretical stress minimums (like a 0.0315mm bracket thickness at Nsf=4) are much thinner than what can be practically machined, so manufacturability governs the final part sizes
+  - I learned how to resolve dual motor reaction torques ($2.90\text{ N}\cdot\text{m}$) into frame stabilizing forces (36.25N) and verify vertical standoff stability using Euler column buckling (Nsf=277.5)
+  - I learned how to use *Machinery's Handbook* to select an RC3 running fit (H7/f6) and M5 clearance holes so the lower lead screw bearing floats axially without binding
+
+### - Antonio Goodson
+
+- *Time Spent:* 6 hours
+- *Key Takeaways:*
+  - 
+
+
+## - Jarek Hernandez
+
 ## CAD FILES - Antonio Goodson & Jarek Hernandez
+
