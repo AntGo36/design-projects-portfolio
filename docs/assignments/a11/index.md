@@ -337,6 +337,73 @@ One of the first steps I took in the assembly was to create a hole for the lead 
 
 ## Bill of Materials & Engineering Cost
 
+<table>
+  <thead>
+    <tr>
+      <th>Item Number</th>
+      <th>Quantity</th>
+      <th>Name</th>
+      <th>Cost Per 3</th>
+      <th>Cost</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1/2"-10 Lead Screw</td>
+      <td>$9.90</td>
+      <td>$19.80</td>
+      <td>www.mcmaster.com/98935A823</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>Flange Nut</td>
+      <td>$125.72 each</td>
+      <td>$251.44</td>
+      <td>www.mcmaster.com/95120A111</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>1</td>
+      <td>T-Slot Framing System</td>
+      <td>$245.87</td>
+      <td>$245.87</td>
+      <td>www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2</td>
+      <td>Nema 23 Stepper Motor 2.4Nm 4A 57x57x82mm 8mm</td>
+      <td>$18.92</td>
+      <td>$37.84</td>
+      <td>www.omc-stepperonline.com/nema-23-stepper-motor-2-4nm-339-79oz-in-4a-57x57x82mm-8mm-shaft-4-wires-23hs32-4004s</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2</td>
+      <td>Machinable-Bore Clamping Shaft Coupling</td>
+      <td>$39.05</td>
+      <td>$78.10</td>
+      <td>www.mcmaster.com/3084K31/</td>
+    </tr>
+
+<br>
+    </tr>
+    <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Total Cost: $517.11
+      </td>
+    </tr>
+  </tfoot>
+  </tbody>
+</table>
+  <br>
+
+
 ## Lessons Learned
 
 ## CAD FILES - Antonio Goodson & Jarek Hernandez
