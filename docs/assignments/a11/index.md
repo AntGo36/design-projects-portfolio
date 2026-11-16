@@ -418,6 +418,43 @@ One of the first steps I took in the assembly was to create a hole for the lead 
 </table>
   <br>
 
+<table>
+  <thead>
+    <tr>
+      <th>Person</th>
+      <th>Hours</th>
+      <th>Hourly</th>
+      <th>Cost</th>
+    </tr>
+  </thead>
+  <body>
+    <tr>
+      <td>Brian</td>
+      <td>5</td>
+      <td>$35</td>
+      <td>$175</td>
+    </tr>
+    <tr>
+      <td>Antonio</td>
+      <td>6</td>
+      <td>$35</td>
+      <td>$210</td>
+    <tr>
+    <tr>
+      <td>Jarek</td>
+      <td>---</td>
+      <td>$35</td>
+      <td>---</td>
+    <tfoot>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+      Pay Cost: ----
+      </td>
+    </tr>
+  </tfoot>
+  </body>
+</table>
+
 
 ## Lessons Learned
 
