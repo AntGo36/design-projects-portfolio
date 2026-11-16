@@ -1,6 +1,3 @@
-
-
-
 # A11 – Motor Selection
 
 *Team Section Contributions:*
@@ -336,6 +333,69 @@ One of the first steps I took in the assembly was to create a hole for the lead 
 
 
 ## Section 8: Top Frame FEA Verification - Jarek Hernandez Acaba
+
+To make sure that our top assembly could operate and function while holding the loads, FEAs were conducted on the bases along with the frame.
+
+![fixed](A11FIXED.PNG)
+![loads](A11LOADS.PNG)
+
+Once the loads and fixed points were defined, I created a mesh at stress-raise locations to further study those critical areas. Once the mesh was created, I hit Study and analyzed stress, deflection, and safety factor.
+
+### Coarse
+
+![details](A11COARSEMESHDETAILS.PNG)
+![disp](A11DISPCOARSE.PNG)
+![stress](A11STRESSCOARSE.PNG)
+![SF](A11SFCOARSE.PNG)
+### Normal 
+![details](A11MIDMESHDETAILS.PNG)
+![disp](A11DISP.PNG)
+![stress](A11STRESS.PNG)
+![SF](A11SF.PNG)
+### Fine
+![details](A11FINEMESHDETAILS.PNG)
+![disp](A11DISPFINE.PNG)
+![stress](A11STRESSFINE.PNG)
+![SF](A11SFFINE.PNG)
+
+### Results to Report
+
+| Mesh Level | Elements | Max Displacement (mm) | Max von Mises Stress (MPa) | Min Factor of Safety (SF) | % Change in Stress | % Change in Deflection |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Coarse** | 281,683 | 0.03675 | 9.93 | 28 | — | — |
+| **Medium** | 915,361 | 0.03674 | 11.36 | 24 | +14.39% | -0.03% |
+| **Fine** | 1,640,979 | 0.03673 | 10.98 | 25 | -3.35% | -0.03% |
+
+Both motors have a 1,000N normal load applied symmetrically to their inner faces where the motor would sit on. The forces travel through the cylindrical slot where the shaft coupling would go, and the mounting flanges onto the tracks of the aluminium frame. Due to applied loads that are balanced and centered across the transverse axis of the frame, vertical flexural bending dominates the deformation profile. Torsion and lateral warping factors are so small that they are not accounted for. The model exaggerates the bending of the structure, but it's a good visual representation of what is happening inside the frame.
+
+### Optimization Pass
+
+Results from FEAs were well beyond the proposed limits, with FS ranging from 25 to 28 against a 250MPa yield strength. Given that the stress numbers were so low compared to the 250MPa yield strength, the structure was over-designed, which means that a good optimization pass to focus on was to reduce the mass of the mounts. This could be done by integrating the coupling into the frame. Critical locations for stresses currently concentrate at the shaft inner fillet transitions where the vertical motor mount columns meet the mounting base pads. 
+
+## Section 9: Vertical Standoff FEA Verification - Jarek Hernandez Acaba
+
+### Coarse 
+![details1](A1COARSEMESHDETAILS.PNG)
+![disp1](A1COARSEDISPFORCES.PNG)
+![stress1](A1COARSESTRESSFORCES.PNG)
+![SF1](A1COARSESFFORCES.PNG)
+
+### MID
+
+![details1](A1MIDMESHDETAIL.PNG)
+![disp1](A1DISPMIDFORCES.PNG)
+![stress1](A1MIDSTRESSFORCES.PNG)
+![SF1](A1MIDSFFORCES.PNG)
+
+### Fine
+
+![details1](A1FINEMESHDETAILS.PNG)
+![disp1](A1FINEDISPFORCES.PNG)
+![stress1](A1FORCESTRESS.PNG)
+![SF1](A1SFFORCES.PNG)
+
+### Results to Report
+
 
 ## Section 9: Vertical Standoff FEA Verification - Jarek Hernandez Acaba
 
