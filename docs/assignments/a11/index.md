@@ -343,7 +343,7 @@ One of the first steps I took in the assembly was to create a hole for the lead 
       <th>Item Number</th>
       <th>Quantity</th>
       <th>Name</th>
-      <th>Cost Per 3</th>
+      <th>Cost Per</th>
       <th>Cost</th>
       <th>Link</th>
     </tr>
