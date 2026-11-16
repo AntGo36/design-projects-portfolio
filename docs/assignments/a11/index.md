@@ -389,13 +389,28 @@ One of the first steps I took in the assembly was to create a hole for the lead 
       <td>$78.10</td>
       <td>www.mcmaster.com/3084K31/</td>
     </tr>
-
+    <tr>
+      <td>6</td>
+      <td>1</td>
+      <td>Black-Oxide Alloy Steel Socket Head Screw (100 count)</td>
+      <td>$16.36</td>
+      <td>$16.36</td>
+      <td>www.mcmaster.com/91290A228/</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2</td>
+      <td>Inside Corner Bracket: Wide Inside-Corner Bracket, 15 Series, 1 1/2 in x 2 13/16 in x 1 1/2 in</td>
+      <td>$9.99</td>
+      <td>$19.98</td>
+      <td>www.grainger.com/product/80-20-Inside-Corner-Bracket-Wide-5JRU9</td>
+    </tr>
 <br>
     </tr>
     <tfoot>
     <tr>
       <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
-        Total Cost: $517.11
+        Total Part Cost: $669.39
       </td>
     </tr>
   </tfoot>
