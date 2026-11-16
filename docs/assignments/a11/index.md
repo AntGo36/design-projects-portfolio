@@ -71,7 +71,7 @@ Pmax=Tmotormax=Tmotor2RPMmax60
 
 ## Task 1.3 — Motor Selection & Speed-Torque Verification
 
-- *Selected Component:* High-Torque Planetary Geared Stepper / DC Gearmotor (24V DC, 100:1 Planetary Gearbox, rated continuous torque $\ge 2.0\text{ N}\cdot\text{m}$, speed range 0–30RPM, 8mm keyed output shaft, NEMA 23 / 4-bolt flange).
+- *Selected Component:* High-Torque Planetary Geared Stepper / DC Gearmotor (24V DC, 100:1 Planetary Gearbox, rated continuous torque $\ge 2.0\text{ N}\cdot\text{m}$, speed range 0–30RPM, 8mm D-shaped output shaft, NEMA 23 / 4-bolt flange).
 - *Verification:* At the maximum crosshead speed of 50mm/min (19.69RPM), the required torque of $1.45\text{ N}\cdot\text{m}$ sits safely inside the continuous duty envelope of the selected gearmotor.
 - *(Insert annotated Speed-Torque Curve plot here: `![Speed Torque Curve](speed_torque_curve.png)`)*
 
@@ -122,7 +122,7 @@ tmin=10.87N4(0.005m)(276106Pa)=3.1510-5m=0.0315mm
 - *a. Knowns and Unknowns:*
   - *Knowns:*
     - Transmitted torque (Tmotor): $1.45\text{ N}\cdot\text{m}$
-    - Motor output shaft diameter (dmotor): 8.0mm (0.008m)
+    - Motor output shaft diameter (dmotor, D-shaped profile): 8.0mm (0.008m)
     - Turned lead screw end-journal diameter (djournal): 8.0mm (0.008m, turned down from 9.75mm minor diameter of the 1/2"-10 Acme screw)
     - Coupler Material (Aluminum 6061-T6): Sy=276MPa
     - Shear Yield Strength (Ssy, Distortion Energy Theory): 0.577Sy=159.25MPa
@@ -146,7 +146,7 @@ tmin=10.87N4(0.005m)(276106Pa)=3.1510-5m=0.0315mm
   Setting di=8.0mm=0.008m and solving numerically for do:
   $\frac{16 (1.45\text{ N}\cdot\text{m}) d_o}{\pi (d_o^4 - 0.008^4)} = 39.81 \times 10^6\text{ Pa} \implies d_{o,min} = 8.69\text{ mm}$
   tmin=8.69mm-8.00mm2=0.346mm
-- *Selected Component:* A standard rigid/beam shaft coupling with **8mm bore (di=8.0mm)** and **20mm outer diameter (do=20.0mm, wall thickness t=6.0mm)** is selected to accommodate set-screw/clamping hardware and prevent torsional windup.
+- *Selected Component:* A standard rigid shaft coupling with **8mm D-bore / set-screw clamping (di=8.0mm)** and **20mm outer diameter (do=20.0mm, wall thickness t=6.0mm)** is selected to engage the motor's D-shaft flat without slip or torsional windup.
   actual=16(1.45)(0.020)(0.0204-0.0084)=0.947MPa39.81MPa(Nsf=168)
 ---
 
@@ -226,11 +226,11 @@ Nsf,buckling=277,450N1000N=277.54
   - *Knowns:*
     - Nominal lead screw end-journal diameter (dnominal): 8.000mm (0.3150in, turned end journal of the 1/2"-10 Acme screw)
     - Required fit class: **RC3 (Close Running Fit)** per *Machinery's Handbook* (0.24–0.40in / 6–10mm basic size range)
-    - Frame mounting fasteners: M6 socket head cap screws
+    - Frame mounting fasteners: M5 socket head cap screws
   - *Unknowns:*
     - Bearing bore upper and lower limits
     - Lead screw shaft journal upper and lower limits
-    - Resulting diametral clearance range and M6 clearance hole dimensions
+    - Resulting diametral clearance range and M5 clearance hole dimensions
 
 - *b. Free Body Diagram (FBD):*
   *(Insert image: `![Floating Bearing Fit Diagram](fbd_a11_floating_bearing.JPG)`)*
@@ -240,11 +240,12 @@ Nsf,buckling=277,450N1000N=277.54
   - **Lead Screw Journal (Shaft, f6):** $-0.013\text{ mm} / -0.022\text{ mm} \implies \mathbf{7.978\text{ mm}\text{ to }7.987\text{ mm}}$
   - **Minimum Clearance:** 8.000mm-7.987mm=0.013mm
   - **Maximum Clearance:** 8.015mm-7.978mm=0.037mm
-  - **M6 Mounting Bolt Clearance Holes (per Machinery's Handbook):** **6.4mm** (close fit) or **6.6mm** (normal fit) thru-hole, with a 10.5mm counterbore if socket head cap screws are recessed.
+  - **M5 Mounting Bolt Clearance Holes (per Machinery's Handbook):** **5.3mm** (close fit) or **5.5mm** (normal fit) thru-hole, with a 9.2mm counterbore if socket head cap screws are recessed.
 
 ---
 
 ## Section 7: Parametrically Model (CAD) - Antonio Goodson
+
 
 ### Coupler Allignment
 
@@ -329,6 +330,7 @@ One of the first steps I took in the assembly was to create a hole for the lead 
 </p>
 
 
+
 ## Section 8: Top Frame FEA Verification - Jarek Hernandez Acaba
 
 ## Section 9: Vertical Standoff FEA Verification - Jarek Hernandez Acaba
@@ -338,3 +340,4 @@ One of the first steps I took in the assembly was to create a hole for the lead 
 ## Lessons Learned
 
 ## CAD FILES - Antonio Goodson & Jarek Hernandez
+
