@@ -509,6 +509,7 @@ Results from FEAs were well beyond the proposed limits, with FS ranging from 25 
       <td>---</td>
       <td>$35</td>
       <td>---</td>
+    </tr>
     <tfoot>
     <tr>
       <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
