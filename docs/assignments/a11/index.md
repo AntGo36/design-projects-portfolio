@@ -503,7 +503,7 @@ Results from FEAs were well beyond the proposed limits, with FS ranging from 25 
       <td>6</td>
       <td>$35</td>
       <td>$210</td>
-    <tr>
+    </tr>
     <tr>
       <td>Jarek</td>
       <td>---</td>
