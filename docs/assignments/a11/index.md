@@ -515,6 +515,10 @@ Results from FEAs were well beyond the proposed limits, with FS ranging from 25 
       Pay Cost: ----
       </td>
     </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
+        Project Cost: ----
+    </tr>
   </tfoot>
   </body>
 </table>
