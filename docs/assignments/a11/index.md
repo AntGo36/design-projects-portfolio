@@ -540,7 +540,7 @@ Results from FEAs were well beyond the proposed limits, with FS ranging from 25 
 
 - *Time Spent:* 6 hours
 - *Key Takeaways:*
-  - Within this assignment I feel that I was able to research more effectively and with better foresight of how things would go together.
+  - Within this assignment I feel that I was able to research more effectively and with better foresight of how things would work together.
   - Some setbacks that I encountered was finding the appropriate motor and coupler.
   - The problems were that finding a motor with a keyed shaft with a diameter of 8 mm was difficult and when I did find one it was over $1000, so what I did was switch to a D shape shaft and find a stepper motor within the specifications which greatly reduced the cost.
   - For the coupler, there was great trouble finding one that would connect a 8 mm to a half inch so what I did was find a machinable coupler that connected to Half an inch inch increase the machining hole in the CAD software.
