@@ -540,10 +540,10 @@ Results from FEAs were well beyond the proposed limits, with FS ranging from 25 
 
 - *Time Spent:* 6 hours
 - *Key Takeaways:*
-  - 
+  - Within this assignment I feel that I was able to 
 
 
-## - Jarek Hernandez
+### - Jarek Hernandez
 
 ## CAD FILES - Antonio Goodson & Jarek Hernandez
 
