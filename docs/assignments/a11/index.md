@@ -13,7 +13,7 @@ Develop the motorized drive and structural integration for a 2 kN dual-leadscrew
 
 ## Section 1: Motor Torque & Speed Selection - Brian Jones
 
-## Task 1.1 — Motor Rotational Speed Range ( / RPM)
+### Task 1.1 — Motor Rotational Speed Range ( / RPM)
 
 - *a. Knowns and Unknowns:*
   - *Knowns:*
@@ -37,7 +37,7 @@ RPMmin=1mm/min2.54mm/rev=0.394RPM
  
 RPMmax=50mm/min2.54mm/rev=19.69RPM
 
-## Task 1.2 — Required Driving & Motor Output Torque (Tmotor)
+### Task 1.2 — Required Driving & Motor Output Torque (Tmotor)
 
 - *a. Knowns and Unknowns:*
   - *Knowns:*
@@ -69,7 +69,7 @@ Pmax=Tmotormax=Tmotor2RPMmax60
   $$T_{motor} = \frac{1.305\text{ N}\cdot\text{m}}{0.90} = 1.45\text{ N}\cdot\text{m} \quad (12.83\text{ in-lbf})$$
   $$P_{max} = 1.45\text{ N}\cdot\text{m} \cdot \left( \frac{2\pi \cdot 19.69}{60} \right) = 2.99\text{ W}$$
 
-## Task 1.3 — Motor Selection & Speed-Torque Verification
+### Task 1.3 — Motor Selection & Speed-Torque Verification
 
 - *Selected Component:* High-Torque Planetary Geared Stepper / DC Gearmotor (24V DC, 100:1 Planetary Gearbox, rated continuous torque $\ge 2.0\text{ N}\cdot\text{m}$, speed range 0–30RPM, 8mm D-shaped output shaft, NEMA 23 / 4-bolt flange).
 - *Verification:* At the maximum crosshead speed of 50mm/min (19.69RPM), the required torque of $1.45\text{ N}\cdot\text{m}$ sits safely inside the continuous duty envelope of the selected gearmotor.
@@ -79,7 +79,7 @@ Pmax=Tmotormax=Tmotor2RPMmax60
 
 ## Section 2: Motor Mount Bracket Bearing Stress Analysis - Brian Jones
 
-## Task 2.1 — Minimum Bracket Plate Thickness (tmin)
+### Task 2.1 — Minimum Bracket Plate Thickness (tmin)
 
 - *a. Knowns and Unknowns:*
   - *Knowns:*
@@ -117,7 +117,7 @@ tmin=10.87N4(0.005m)(276106Pa)=3.1510-5m=0.0315mm
 
 ## Section 3: Shaft-to-Leadscrew Coupler Torsion Analysis - Brian Jones
 
-## Task 3.1 — Coupler Inner Diameter, Outer Diameter & Wall Thickness
+### Task 3.1 — Coupler Inner Diameter, Outer Diameter & Wall Thickness
 
 - *a. Knowns and Unknowns:*
   - *Knowns:*
@@ -153,7 +153,7 @@ t=8.69mm-8.00mm2=0.346mm
 
 ## Section 4: Frame Twisting Analysis & Corner Bracket Selection - Brian Jones
 
-## Task 4.1 — Top Frame Twist Equilibrium & Bracket Sizing
+### Task 4.1 — Top Frame Twist Equilibrium & Bracket Sizing
 
 - *a. Knowns and Unknowns:*
   - *Knowns:*
@@ -189,7 +189,7 @@ Rz=1000N(designloadwithNsf=4:4000N)
 
 ## Section 5: Analytical Euler Column Buckling Check - Brian Jones
 
-## Task 5.1 — Vertical Standoff Buckling Verification
+### Task 5.1 — Vertical Standoff Buckling Verification
 
 - *a. Knowns and Unknowns:*
   - *Knowns:*
@@ -221,7 +221,7 @@ Nsf,buckling=277,450N1000N=277.54
 
 ## Section 6: Floating Bearing Mount Fit & Tolerances - Brian Jones
 
-## Task 6.1 — RC3 Running Fit & Machinery's Handbook Clearance Holes
+### Task 6.1 — RC3 Running Fit & Machinery's Handbook Clearance Holes
 
 - *a. Knowns and Unknowns:*
   - *Knowns:*
