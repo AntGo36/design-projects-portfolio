@@ -539,7 +539,7 @@ When it comes to shift in critical locations, I would add some larger corner gus
     </tr>
     <tr>
       <td colspan="2" style="text-align: center; font-weight: bold; background-color: #f9f9f9;">
-        Project Cost: $1,264.39
+        Project Cost: $1,304.35
     </tr>
   </tfoot>
   </body>
